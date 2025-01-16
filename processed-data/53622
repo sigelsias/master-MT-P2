@@ -1,0 +1,34 @@
+acollins@uclink.berkeley.edu andy collins write 
+
+ > thick need pcb trace 15 amps current 
+ > anybody thought process kind pcb 
+ > use material thickness copper advice graciously accept 
+
+ reply see hard number go   trace 
+ outside inner layer expect 1 oz copper 15 amp 
+ follow temperature rise versus width   sams 
+ reference data engineers seventh edition pg 5 30 claim 
+ turn mil std-275c 
+
+     width    temp rise 
+     inch   degree c 
+       
+      .125 	 100 
+      .15 	  75 
+      .17 	  60 
+      .20 	  45 
+      .24 	  30 
+      .33 	  20 
+
+ 10 amp rise .125 width 30 degree 
+ power go square current plus copper resistance go 
+ temperature go   certainly .20 ~5 mm trace 
+ ample want   2 ounce copper cut 
+ require width half   2 oz 0.08 width 
+ think give rate current 10 amp 15 
+ transient fault condition 
+
+ question voltage drop low 
+ able figure wire table 
+ resistivity copper   trace short use separate 
+ sensing trace appropriate mention poster 

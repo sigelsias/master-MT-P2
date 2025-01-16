@@ -1,0 +1,57 @@
+bruce maynard drac@uumeme.chi.il.us write 
+ > article < 93083.215554mal112@psuvm.psu.edu > mitch lewars < mal112@psuvm.psu.edu > write 
+ > > spec 
+ > > null modem cable ferget 
+ > > cross = 
+ > >     mal112@psuvm.psu.edu 
+
+ > easy carry 25 pin straight exception 
+ > pin 2 3 cross 
+
+ mention carry 23 pin 
+
+ plan minimal null modem 
+	 sg(7      sg(7 
+	 td(2      rd(3 
+	 rd(3      td(2 
+ transfer file betwen 2 pc ought work 
+ persnickity comm program 
+
+ plan b null modem modem control 
+	 sg(7      sg(7 
+	 td(2      rd(3 
+	 rd(3      td(2 
+	 dcd(8     dtr(20 
+	 dtr(20   dcd(8 
+ comm software wait dcd transfer 
+ software raise dtr enable modem accept 
+ cable dtr drive dcd 
+
+ plan c null modem hardware flow control 
+	 sg(7      sg(7 
+	 td(2      rd(3 
+	 rd(3      td(2 
+	 rts(4     cts(5 
+	 cts(5     rts(4 
+ high speed transfer want flow control 
+
+ plan d deluxe null modem combine b c 
+	 sg(7      sg(7 
+	 td(2      rd(3 
+	 rd(3      td(2 
+	 rts(4     cts(5 
+	 cts(5     rts(4 
+	 dcd(8     dtr(20 
+	 dtr(20   dcd(8 
+ ideal   leave dsr ri rarely anymore 
+ paranoid 8th wire spend 
+ add 
+	 fg(1      fg(1 
+
+ pin number obviously 25 pin connector 
+ 9 pin pinout handy 
+
+ 
+	 wayne hamilton 
+ i'net 	 hamilton@osiris.cso.uiuc.edu 
+ lowtek 	 box 476 urbana il 61801 217)384 4310(voice -4311(bbs 

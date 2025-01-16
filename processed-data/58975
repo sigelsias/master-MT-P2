@@ -1,0 +1,61 @@
+
+ know recently change standard vesa local bus 
+ video card ncr base card new diamond stealth 24 vlb card 
+ package 2 3 4 package 1 ncr screamer   
+ add $ 149 upgrade stealth 24 ncr diamond viper 
+ product list   comparison different card 
+ configuration offer 
+
+                      ncr               stealth 24 vlb         viper vlb 
+ 64ox480 color        16,256            16,256,32k,64k,16.7 m 16,256,32k,64k,16.7 m 
+ 8oox6oo color        16,256            16,256,32k,64 k         16,256,32k,64 k 
+ 1024x768 color       16,256            16,256                 16,256 
+ 1280x1024 color      16                16                     16 
+ video processor       ncr 77c22e+       s3 86c805              weitek power 9000 
+ video ram             1 m                1 m                     1 m 
+ max ram addressable 
+   vid processor    3 m                2 m                     2 m 
+ ram type              dram              dram                   vram 
+ user ram upgrade     socket   socket        yes 
+ diamond 
+ 64ox480 refresh       60 72 hz          60 72    hz             60 72    hz 
+ 8oox6oo refresh       56 72 hz          56 72    hz             56 72    hz 
+ 1024x768 refresh      44 70 hz          43 72    hz             43 72    hz 
+ 128oxl024 refresh     43 hz             43 60    hz             43 74    hz 
+ 26 pin vesa 
+   feature connector                  yes                    
+ conflict x2e8 
+   port addr com4                   yes                   
+ drivers 
+   win 3.1             yes               yes                    yes 
+   acad     9/10/11     yes               yes                    yes 
+   acad 12                            yes                  yes 
+   vesa                yes               yes                    yes 
+   os/2      winnt                                  
+ win 3.1 winmarks      10.5 m         21 m               50 m 
+
+
+ ^l 
+     viper vlb 2 m video ram give 8oox6oo 16.7 m 1024x768 32 k 
+      64 k 1280xl 024 256 color   s3 base card downward 
+      compatible conflict 2e8   diamond admit conflict 
+      exist stealth 24   prelim viper manual incorrectly list 
+      s3 port address   conflict 
+
+
+    autocad 12 driver currently available stealth speedstar 
+      24x stealth 24 vlb viper vlb   obtain 
+      diamond tech support 408 736 2000 bbs 
+
+    os/2 2.0 support standard vga card   svga driver 
+      available near future   windows nt release 
+      driver available currently   diamond hope current 
+      product support win nt release nt disk 
+
+   ncr testing come test run tech support department 
+     zeos 1024x768x256 zeos dx2 66 result official 
+     diamond result dx2 66 1024x768 256 color 7ohz 
+     refresh 
+
+
+

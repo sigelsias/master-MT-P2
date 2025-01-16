@@ -1,0 +1,19 @@
+help 
+
+ need implement com3 com4 board design 
+ find dificult track definition hardware com3 
+ com4 
+
+ io adresse fact com3 share irq4 com1 com4 
+ share irq3 com2 exactly irq sharing 
+ clear especially exist com1/2 allow irq sharing 
+ standard allow different irq 
+
+ answer email 
+
+       neil@stone.oz.au 
+
+ thank advance 
+
+ neil watkinson 
+

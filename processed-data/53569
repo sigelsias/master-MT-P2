@@ -1,0 +1,1547 @@
+electrical wiring question turn time time 
+ sci.electronic answer apparent skilled 
+ electronic hijack follow faq post copy 
+ ask writer cross post sci.electronic future 
+
+	 jeh@cmkrnl.com 
+
+
+ x news cmkrnl news.answer 6685 
+ newsgroups misc.consumers.house rec.woodworking news.answer misc.answer rec.answer 
+ subject electrical wiring faq 
+ message id < wirefaq_733900891@ecicrl > 
+ clewis@ferret.ocunix.on.ca chris lewis 
+ date 4 apr 93 05:21:49 gmt 
+ reply wirefaq@ferret.ocunix.on.ca wire faq commentary reception 
+ followup poster 
+ expire 2 93 05:21:31 gmt 
+ organization elegant communications inc. ottawa canada 
+ summary series question answer house wiring 
+ approve news-answers-request@mit.edu 
+ supersede < wirefaq_732691289@ecicrl > 
+ line 1524 
+
+ archive electrical wiring 
+ modify sun feb 21 16:56:10 est 1993 
+
+	     frequently ask question electrical wiring 
+
+		 steven bellovin smb@ulysses.att.com 
+		 chris lewis clewis@ferret.ocunix.on.ca 
+
+	     comment automatic reply article 
+		     wirefaq@ferret.ocunix.on.ca 
+
+ faq format digest   news reader 
+ skip question press ^g. 
+
+ answer topic relate house obtain 
+ misc.consumers.house archive send piece mail 
+ house-archive@dg-rtp.dg.com information 
+
+ change previous issue mark | left column   watch 
+ particularly new questions list new substantively 
+ change answer 
+
+ note register faq cros post news.answer 
+ appear faq list list 
+
+ subject question answer faq 
+
+	 introduction disclaimer 
+	 nec   copy 
+	 cec   copy 
+	 wiring   extra pointer 
+	 need way tool 
+	 ul listing 
+	 csa approval 
+	 cheap easy read book wiring 
+	 inspection   wiring inspect 
+	 house meet rule regulation 
+	 word voltage 110/115/117/120/125/220/240 
+	 electrical service look like 
+	 circuit 
+	 ground versus ground versus neutral 
+	 fuse breaker   difference 
+	 breakers   use fuse 
+	 size wire use 
+	 number come 
+	 14 2 mean 
+	 wirenut"/"marrette"/"marr connector   
+	 gfi gfci 
+	 gfcis 
+	 use gfci 
+	 difference gfci outlet gfci breaker 
+	 purpose ground prong outlet 
+	 prong wide   polarization 
+	 kind outlet need kitchen 
+	 outlet switch bathroom 
+	 romex nm nmd   bx   use 
+	 use plastic metal box 
+	 junction box positioning 
+	 install replacement fixture 
+	 mean light brighten motor start 
+	 3 phase power   use   house 
+	 well run motor 110 220 
+	 nonsense 3hp 110v 15a circuit 
+	 convert prong receptacle prong 
+	 sure gfcis ungrounded outlet 
+	     test button work 
+	 wire shop 
+	 underground wiring 
+	 aluminum wiring 
+	 buy house   
+	 weird stuff   old style wiring 
+	 buy stuff 
+
+
+ subject introduction disclaimer 
+
+	 fair bit wiring 
+	 electrician responsible   
+	 uncertain correct safe 
+	   contact qualified licensed electrician 
+	 local electrical inspector   electricity joke 
+	 mistake result shock fire electrocution 
+
+	 furthermore discussion base u.s. national 
+	 electrical code nec canadian electrical code cec 
+	 good ability confirm detail 
+	 electrical code quote section 
+	 simply thing readable   think wrong 
+	 invite correct quote reference 
+
+	 nec cec 
+	 force law   municipality adopt en toto   
+	   check local building 
+	 department < provincial > hydro inspection offices 
+	 canada find apply area   
+	 local electrical utility special requirement 
+	 electrical service installation   bear mind 
+	 apply primarily ordinary single family 
+	 residence   multi family dwelling mobile home commercial 
+	 establishment etc govern different 
+	 rule 
+
+	 note contrary popular belief u.s. 
+	 part canada canada wholly own subsidiary 
+	 u.s.   consequently nec apply canada 
+	 lot thing include voltage line 
+	 frequency law physic   number 
+	 crucial difference regulation   
+	 note flag relevant passage ` ` nec 
+	 ` ` cec 
+
+	 remember cec nec minimal standard   
+	 smart minimal requirement 
+
+ subject nec   copy 
+
+	 nec model electrical code devise publish 
+	 national fire protection association insurance industry group 
+	 revise year   1993 version release 
+	 buy copy decent bookstore call directly 
+	 800 344 3555   code exist version   
+	 text fairly incomprehensible   abridge 
+	 edition section likely apply house 
+	 nec handbook contain ` ` authorize 
+	 commentary code text   
+	 recommend version   unfortunately handbook 
+	 abridged edition   handbook expensive 
+	 us$ 65 plus shipping handling 
+
+ subject cec   copy 
+
+	 canadian standards association organization 
+	 government agency power utility insurance 
+	 company electrical manufacturer organization 
+	 csa publish csa standard c22.1 update 
+	 year   province adopt amendment 
+	 standard publish province specific code book 
+	 province publish slightly modify 
+	 standard somewhat confusing obtain csa 
+	 standard   faq cec mean 
+	 appropriate provincial standard   particular faq 
+	 derive ontario hydro electrical safety code 20th 
+	 edition 1990   turn base csa c22.1 1990 16th 
+	 edition   difference exist province 
+	 attempt avoid specific ontario detail 
+
+	 appropriate provincial code obtain electrical 
+	 inspection office provincial power authority   
+	 ontario ontario hydro   ontario hydro book 
+	 overly fat   c$ 25 include mail update   
+	 hear standard somewhat easy read 
+	 equivalent nec publication 
+
+	 bother ask quebec diy wiring ban 
+	 province 
+
+ subject wiring   extra pointer 
+
+	 place homeowner allow wiring 
+	   check local electrical 
+	 inspector   place will permit wiring 
+	 home money license   permit 
+	 wiring commercial building   multiple dwelling eg duplex 
+	 usually consider semi commercial commercial   
+	 jurisdiction permit work semi commercial 
+	 wiring supervise licensed electrician 
+	 find willing supervise 
+
+	 wiring important point 
+
+	 neat   want aim well 
+	 job electrician   home 
+	 family kill 
+	 mistake   electrician time pressure skill 
+	 know trick trade fast safe job 
+	 faq consciously give recommendation 
+	 excess code feel reasonable 
+	 impress inspector 
+
+	 inspector know amateur   
+	 earn trust   good way spend 
+	 time neat job possible   cut corner 
+	 exceed specification   inspector extremely 
+	 picky fault slight transgression 
+
+	 try hide inspector 
+
+	 use proper tool   ie use bread knife strip 
+	 wire twist wire finger   inspector 
+	 will like result will safe   
+	 take long   likely stick hunk 
+	 12ga wire hand way 
+
+	 handle house wire cold eg -10c 
+	 16f   thermoplastic house wire particularly old type 
+	 brittle 
+
+ subject need way tool 
+
+	 obvious hammer drill 
+	 screwdriver straight phillips head   
+	 lucky live canada find source csa approve 
+	 device need robertson square recess screwdriver 
+	 1 2 instead phillip 
+
+	 drill hole 3/4 1 spade bit 1/4 
+	 3/8 electric drill   lot 
+	 work elderly lumber recommend 1/2 drill 
+	 right angle drill wonderful   rent 
+	 3/4 1 screw point auger drill bit   bit pull 
+	 fast fatiguing 
+	 90 year old hardwood timber 
+
+	 screw driver bit useful drill expecially 
+	 install electrical box screw drywall screw 
+	 work 
+	
+	 strip wire use real wire stripper knife 
+	 ordinary wire cutter   buy $ 3 k mart combo stripper 
+	 crimper bottle opener type   expect pay 
+	 $ 15 $ 20 good plier type pair   size 
+	 strip hole will nick grab wire 
+	 easy strip wire   model small hole 
+	 blade form exact wire loop screw terminal   
+	 fancy type autostrip cut generally 
+	 necessary pro usually use 
+
+	 pair diagonal cutter plier useful clip end 
+	 constricted place   use strip wire 
+
+	 need linesman plier twist wire wire nut 
+
+	 pair needle nose plier fiddle 
+	 inside box closing loop well form wire 
+	 loop loop hole wire stripper 
+	 accurate 
+
+	 non metallic cable cable stripper 
+	 remove sheath   pro nick 
+	 end sheath grab ground wire pair plier 
+	 simply rip sheath ground wire 
+	 zipper cut sheath   try strip 
+	 sheath knife point easy 
+	 slash insulation conductor   apparently stanley 
+	 utility knife fit linoleum cutter hooked blade 
+	 strip sheath possibility 
+	 gouge conductor 
+
+	 substantial work armored cable 
+	 worth invest rotary cable splitter ~us$ 18 
+	 hack saw tricky use cut wire 
+	 insulation 
+
+	 prong outlet tester quick check properly wire 
+	 outlet   $ 6   multimeter tell lot 
+	 expensive probably worth people   simple 
+	 voltage sensor detect potential insulate 
+	 wire supply device extremely helpful cost 
+	 us$ 10 radio shack 
+
+	 voltage detector check wire 
+	 dead work   neon bulb version cheap $ 2 3 
+	 work   audible alarm type 
+	 good trace circuit helper   know 
+	 lock drill hit breaker scream stop 
+
+	 run wire exist wall need fish tape 
+	 tape need bent hanger 
+	 length thin chain suffice   fish tape rent 
+
+	 electrical tape   lot   seriously good competent 
+	 wiring job need little tape   tape useful 
+	 wrap dicy insulation repair work   use wrap 
+	 body outlet switch cover termination 
+	 screw drywall contractor prefer 
+	 prevent explosion drywall knife collide live outlet 
+	 cover plate 
+
+ subject ul listing 
+
+	 ul stand underwriters laboratory   
+	 insurance industry organization independent 
+	 non profit   test electrical component equipment 
+	 potential hazard   ul list mean 
+	 ul test device meet requirement 
+	 safety ie fire shock hazard   necessarily 
+	 mean device actually suppose 
+	 probably will kill 
+
+	 ul power law u.s. 
+	 permit buy install non ul list device   
+	 insurance policy clause 
+	 limit liability case claim response 
+	 failure non ul list device   furthermore 
+	 situation nec require wiring component 
+	 specific purpose ul list purpose 
+	 indirectly mean certain part wiring 
+	 ul list inspector approve and/or 
+	 occupancy permit issue 
+	
+ subject csa approval 
+
+	 electrical device component certify 
+	 canadian standards association sell 
+	 canada   implicit wiring 
+	 csa approve material   perform test similar 
+	 ul bit stringent csa approval 
+	 require law 
+
+	 like ul fire cause non csa approve 
+	 equipment insurance company pay 
+	 claim 
+
+	 canada branch organization ul call ulc 
+	 ul canada   ulc power law 
+	 liason group csa insurance 
+	 company 
+
+ subject cheap easy read book wiring 
+
+	 usa follow book suggest reader 
+
+	     residential wiring 
+	     jeff markell 
+	     craftsman books 
+	     carlsbad $ 18.25 isbn 0 934041 19 9 
+
+	     practical electrical wiring 
+	     residential farm industrial   base national 
+	     electrical code     ansi nfpa 70 
+	     herbert p. richter w. creighton schwan 
+	     mcgraw hill book co. 
+
+	     wiring simplified 
+	     h. p. richter w. c. schwan 
+	     park publishing co. 
+	
+	 try sure book base late nec 
+	 revision   currently 1990 
+
+	 canada p.s. knight author publish book call 
+	 electrical code simplify   appear version 
+	 publish specific province tie 
+	 appropriate provincial code   focus residential wiring 
+	 indispensible canadian diy'er   well 
+	 book cec lot wiring answer 
+	 question net 
+
+	 update time provincial code   book 
+	 available diy hardware store c$ 10 
+
+ subject inspections   wiring inspect 
+
+	 jurisdiction require obtain permit 
+	 inspection wiring   
+	 mundane bureaucratic reason like insurance company 
+	 like pay claim permit inspection 
+	 provide assurance family neighbor 
+	 subsequent owner home kill lose 
+	 home night sloppy wiring job 
+
+	 jurisdiction power order vacate 
+	 home order tear wiring 
+	 permit   california instance particularly nasty 
+	 
+
+	 fire start home un inspect wiring 
+	 fault insurance company refuse pay damage 
+	 claim 
+
+	 general process go like 
+		 apply local inspection office building 
+		   department permit   sketch 
+		   detailed drawing plan   
+		   good time ask question thing 
+		   sure   major work impose 
+		   special condition require loading 
+		   calculation ask question   point 
+		   tell inspection need 
+		 instal main panel need 
+		   panel service connection inspect 
+		   power utility provide connection 
+		   local power authority 
+		   usual inspector 
+		 instal box wiring 
+		   insulation wall need 
+		   rough inspection 
+		 wall wiring complete 
+		   need final inspection 
+
+ subject house meet rule regulation 
+	 upgrade 
+
+	 general requirement upgrade old dwelling 
+	 exception ie smoke detector 
+	 case   new work accord 
+	 late electrical code   ` ` major work 
+	 require upgrade certain exist portion 
+	 system   check local electrical inspector 
+
+ subject word voltage 110/115/117/120/125/220/240 
+
+	 thing thing bit confusing 
+	 different number people bandy voltage 
+	 circuit   person talk 110v 117v 
+	 120v.   fact exactly 
+	 thing   north america utility company require 
+	 supply split phase 240 volt + -5 feed house 
+	 work 120v + 5 leg   additionally 
+	 resistive voltage drop house wiring 
+	 unreasonable find 120v drop 110v 240v drop 
+	 220v time power reach wall outlet   especially 
+	 end extension cord long circuit run   number 
+	 reason historical simple personal orneryness 
+	 different people choose slightly different number 
+	 faq choose consistent call 110v 
+	 220v actually say measured voltage 
+	   confusing   bit   ignore 
+
+	 thing little understandable 
+	 nameplate equipment ofen low ie 110v 
+	 instead 120v value   imply device 
+	 design operate properly voltage drop 
+	 low 
+
+	 208v 240v.   208v voltage 
+	 phase 3 phase y circuit 120v neutral 
+	 hot    480v voltage phase 3 phase y 
+	 circuit 277v hot neutral 
+
+	 keep 110v versus 120v strangeness motor intend 
+	 run 480v phase label 440v 
+
+ subject electrical service look like 
+
+	 logically wire involve supply 
+	 main panel power   come utility 
+	 pole fourth bare wire come 
+
+ 	 bare wire connect long metal bar pound 
+ 	 ground wire bury foundation 
+ 	 water supply pipe metal continuous 
+	 main water pipe enter house   watch galvanic 
+	 action conductivity break copper iron pipe 
+	 grounding conductor   sure 
+	 prong outlet connect ground   wire 
+	 normally carry current 
+
+	 wire white black white 
+	 yellow stripe simply black   neutral wire 
+	 connect centre tap cec center tap 
+	 nec distribution transformer supply power   
+	 connect grounding conductor place 
+	 inside panel   neutral ground connect 
+	   weird and/or dangerous thing happen 
+
+	 furthermore ground system 
+	 home   code require ground electrode 
+	 connect connect neutral 
+	 common point ground system   add additional 
+	 grounding electrode connect portion house 
+	 wiring unsafe contrary code 
+
+	 add subpanel ground neutral usually 
+	 bring separate conductor main panel 
+	 connect subpanel ie 
+	 neutral ground connection   situation 
+	 certain category separate building actually 
+	 provide second grounding electrode consult 
+	 inspector 
+
+	 wire usually black hot 
+	 wire   attach distribution transformer 
+	 
+
+	 black wire 180 degree phase 
+	   mean connect hot wire 
+	 voltage 220 volt   connect 
+	 white black 110v. 
+
+	 panel wire come 
+	 neutral ground connect 
+	 different point eg meter pole 
+	 wire dual duty neutral ground 
+	 rare occasion service hot wire 110v 
+	 service 
+
+ subject circuit 
+
+	 inside panel connection incoming wire 
+	 connection supply power select 
+	 portion home   different combination 
+		 1 hot neutral ground 110v circuit 
+		 2 hot neutral ground 220v circuit 
+		 3 hot neutral ground 220v circuit + neutral 
+		    and/or 110v circuit common neutral 
+
+	 1 circuit supply receptacle 
+	 light house   3 usually supply 
+	 power major appliance stove dryer 
+	 need 220v 110v bring 
+	 circuit panel box distribution point   2 
+	 usually special 220v motor circuit electric heater 
+	 air conditioner 
+
+	 note nec frequently permit circuit similar 
+	 2 stove dryer 
+	 hot wire wire dual duty neutral 
+	 ground connect frame provide 
+	 neutral 110v purpose prong plug instead 
+	 stove dryer connect main panel 
+	 connect sub panel 4 prong plug receptacle 
+	 require   humble opinion crazy 
+	 nfpa claim practice evaluate 1992 nec 
+	 find safe   check local code inquire 
+	 local practice restriction 
+	 permissible 
+
+	 1 usually wire conductor wire black hot 
+	 white neutral bare ground 
+
+	 2 3 hot wire colour red black 
+	 bare wire grounding 3 white wire neutral 
+
+	 2 wire black white ground 
+	 wire   white hot case nec cec 
+	 require white wire permanently mark end 
+	 indicate live wire   usually paint nail 
+	 polish electrical tape 
+
+	 circuit attach main wire come 
+	 panel circuit breaker fuse 
+
+	 locale circuit look like 1 2 
+	 3 bare ground wire   place 
+	 require hot tub like ground frame ground 
+	 attache motor   
+	 alternative gfci protection 
+
+ subject ground versus ground versus neutral 
+
+	 accord terminology cec nec 
+	 ground conductor safety ground i.e. green 
+	 bare wire   word neutral reserve white 
+	 circuit hot wire   white 
+	 wire connect neutral grounding conductor inside 
+	 panel proper term ground conductor   
+	 potential confusion ground conductor ground 
+	 conductor lead potentially lethal mistake 
+	 use bare wire ground conductor white wire 
+	 grounding conductor connect 
+	 panel 
+
+	 subpanel subpanel feed neutral ground 
+	 separately main panel   usually 
+
+	 trade common usage word neutral 
+	 ground conductor   faq use neutral simply 
+	 avoid potential confusion   recommend use neutral 
+	   white wire light 
+	 switch application neutral   ground 
+
+ subject fuse breaker   difference 
+
+	 fuse circuit breaker design interrupt power 
+	 circuit current flow exceed safe level   
+	 example toaster short fuse breaker 
+	 trip protect wiring wall melt   
+	 fuse breaker primarily intend protect 
+	 wiring ul csa approval supposedly indicate 
+	 equipment will cause fire 
+
+	 fuse contain narrow strip metal design melt 
+	 safely current exceed rate value 
+	 interrupt power circuit   fuse trip relatively 
+	 fast   problem motor 
+	 large startup current surge   motor circuit use 
+	 time delay fuse brand fusetron avoid 
+	 trip momentary overload   fusetron look like 
+	 spring load fuse   fuse trip 
+	 replace 
+
+	 breakers fairly complicated mechanical device   
+	 usually consist spring load contact latch 
+	 position contact   current flow 
+	 device exceed rate value bimetallic strip 
+	 heat bend   bend trip latch 
+	 spring pull contact apart   circuit breaker behave 
+	 similarly fusetron tend long 
+	 trip moderate overload ordinary fuse   high 
+	 overload trip quickly   breaker reset finite 
+	 number time time trip throw 
+	 circuit use arc take place 
+	 damage contact   breaker 
+	 place switch specially list 
+	 purpose 
+
+	 fuse breaker limit current se   dead 
+	 short circuit cause hundred 
+	 thousand ampere flow short period time 
+	 cause severe damage 
+
+ subject breakers   use fuse 
+
+	 statistics fuse panel significantly high 
+	 risk cause fire breaker panel   usually 
+	 fuse loosely screw contact 
+	 corrode heat time wrong size fuse 
+	 instal proverbial replace fuse 
+	 penny trick 
+
+	 breaker permanently instal well 
+	 connection mechanism risk fire considerably 
+
+	 fuse prone explode extremely high overload   
+	 fuse explode metallic vapor cloud conduct 
+	 path   result complete meltdown electrical panel 
+	 melt service wiring fire electrical 
+	 distribution transformer have house burn 
+	 breaker 
+
+	 jurisdiction particularly canada long permit 
+	 fuse panel new installation   nec permit new 
+	 fuse panel rare circumstance require special 
+	 insert key fuseholder specific size fuse 
+
+	 device notably certain large air conditioner require fuse 
+	 protection addition breaker panel   fuse 
+	 protect motor winding overload   check 
+	 labeling unit   usually large permanently 
+	 instal motor   installation instruction tell 
+	 need 
+
+ subject size wire use 
+
+	 20 amp circuit use 12 gauge wire   15 amp circuit 
+	 use 14 gauge wire locale   long run 
+	 use large size wire avoid 
+	 voltage drop   12 gauge slightly expensive 
+	 14 gauge stiff hard work 
+
+	 quick table normal situation   size 
+	 100 foot run cable conduit 
+	 gang wire place dissipate 
+	 heat easily 
+
+		 gauge 		 amps 
+		 14 		 15 
+		 12 		 20 
+		 10 		 30 
+		 8 		 40 
+		 6 		 65 
+	
+	 list big size start get dependent 
+	 application precise wire type 
+
+ subject number come 
+
+	 consideration voltage drop heat buildup 
+	 small wire high resistance   
+	 resistance high wire heat 
+	 voltage drop wiring   need 
+	 high temperature insulation and/or big wire use 
+	 conduit use large wire long 
+	 run 
+
+	 effect significant short distance 
+	 specific exception use small 
+	 wire allow   obvious line cord 
+	 lamp   try certain use fit 
+	 exception wrong large 
+	 wire 
+
+ subject 14 2 mean 
+
+	 describe size quantity conductor 
+	 cable   number specify gauge   second 
+	 number current carrying conductor wire 
+	 remember usually extra ground wire   14 2 mean 
+	 14 gauge insulate current carry wire plus bare ground 
+
+	 -2 wire usually black white bare ground wire   
+	 white red instead 220v circuit neutral   
+	 case sheath usually red 
+
+	 -3 wire usually black red white bare ground wire 
+	 usually carry 220v neutral 
+
+ subject wirenut"/"marrette"/"marr connector   
+	 
+
+	 wire nut cone shape thread plastic thingummy 
+	 connect wire   marrette marr connector 
+	 trade name   usually use lot diy wiring 
+
+	 essence strip end wire inch twist 
+	 twist wirenut 
+
+	 wirenut advertise need twist 
+	 wire anyways mechanically electrically 
+	 secure 
+
+	 different size wire nut   check 
+	 wire nut correct size 
+	 quantity size wire connect 
+
+	 gimble wire pair plier 
+	 finger   use pair blunt nose linesman plier 
+	 carefully twist wire tightly neatly   
+	 good idea trim result end sure 
+	 go wirenut properly 
+
+	 people wrap open end wirenut electrical 
+	 tape   probably good idea inspector 
+	 tear inspection   usually 
+	 bit bare wire expose outside wire nut instead 
+	 tape connection redo 
+
+ subject gfi gfci 
+
+	 gfci ` ` ground fault circuit interrupter   measure 
+	 current current flow hot wire 
+	 neutral wire   differ milliamp 
+	 presumption current leak ground 
+	 path   short circuit chassis 
+	 appliance ground lead person   
+	 situation hazardous gfci trip break 
+	 circuit 
+
+	 gfci protect kind electric shock   
+	 example simultaneously touch hot neutral 
+	 lead circuit ground gfci 
+	 help   current pass hot 
+	 lead return neutral lead keep 
+	 gfci happy 
+
+	 pair connection gfci outlet symmetric 
+	 label load line   incoming power feed 
+	 connect line outlet 
+	 protect   load protect device 
+	 downstream   string outlet 
+	 cover single gfci outlet 
+
+ subject gfcis 
+
+	 nec mandate gfcis 110v 15a 20a single phase 
+	 outlet bathroom kitchen 6 sink garage 
+	 unfinished basement crawl space outdoors near pool 
+	 likely encounter water 
+	 dampness   exception inaccessible outlet 
+	 dedicate appliance ` ` occupy fix space 
+	 typically refrigerator freezer sump pump 
+	 laundry appliance 
+
+	 cec mandate gfci   particular 
+	 requirement protect kitchen outlet garage 
+	 basement outlet   basement outlet protect 
+	 dirt floor garage outlet near door 
+	 outside   bathroom exterior outlet gfci 
+
+	 require gfci protection 
+	 want consider instal   need gfci 
+	 breaker cost low   u.s. gfci 
+	 outlet cost little us$ 8   cost bit high 
+	 canada   c$ 12   evaluate risk factor   
+	 finish basement wet   small child 
+	 use garage outlet power outdoor tool   
+	 water melt snow puddle inside garage 
+
+ subject use gfci 
+
+	 gfci generally circuit pose 
+	 safety risk b power equipment run 
+	 unattended long period time   refrigerators freezer 
+	 sump pump good example   rationale gfci 
+	 prone nuisance trip   people claim 
+	 inductive delay motor winding cause momentary 
+	 current imbalance trip gfci   note 
+	 gfci trip real get lot trip 
+	 apparent reason advise check wiring 
+	 decide gfci break useless 
+
+ subject difference gfci outlet gfci breaker 
+
+	 situation use gfci outlet 
+	 device circuit install breaker 
+	 build gfci   generally prefer gfci 
+	 breaker expensive   example ordinary ge 
+	 breaker cost ~us$5 gfci model cost ~us$35   
+	 major exception   need protect ` ` multi wire branch 
+	 circuit circuit share common neutral wire 
+	 canadian style kitchen circuit need 
+	 multi pole gfci breaker   unfortunately expensive 
+	 cost range hundred dollar depend 
+	 brand panel box   protect 
+	 circuit pool heater choice 
+
+	 caveat gfci outlet bulky   want use 
+	 oversize box instal   second thought use 
+	 large actually deep box   thank 
+
+	 incidentally instal gfci ensure 
+	 specific outlet protect bathroom 
+	 trouble find 
+	 outlet circuit simply find outlet 
+	 bathroom gfci upstream   
+	 protect circuit prefer 
+
+	 install gfci good idea use little 
+	 ground fault protect sticker come mark 
+	 outlet downstream gfci   figure 
+	 outlet downstream simply trip gfci 
+	 test button outlet dead 
+
+ subject purpose ground prong outlet 
+
+	 apart use electronic will comment 
+	 certain fluorescent light will turn 
+	 good ground connection intend guard 
+	 insulation failure device   generally case 
+	 appliance connect ground lead   
+	 insulation failure short hot lead case 
+	 ground lead conduct electricity away safely possibly 
+	 trip circuit breaker process   case 
+	 ground short occur case live 
+	 touch ground zap   
+	 course circuit gfci protect 
+	 tiny zap use gfci replace 
+	 ungrounded outlet nec cec 
+
+	 appliance ground   
+	 particular apply toaster 
+	 expose conductor   consider   touch heating 
+	 electrode toaster ground 
+	 happen   slightly ground small shock 
+	 resistance high   case 
+	 ground hold perfect path 
+	 ground 
+
+ subject prong wide   polarization 
+
+	 nowadays prong device prong wide 
+	   device rely guarantee 
+	 specific wire neutral hot 
+	 particularly advantageous light fixture 
+	 shell neutral safety device want 
+	 approximate ground reference ie radio 
+
+	 2 prong extension cord wide prong 
+
+	 require wire outlet plug right 
+	 way   want wide prong neutral 
+	 narrow hot   outlet dark metal 
+	 hot screw light coloured screw neutral 
+	 usually figure 
+	 prong terminate screw connect 
+
+ subject kind outlet need kitchen 
+
+	 nec require 20 amp ` ` small appliance 
+	 circuit kitchen   cec require split duplex 
+	 receptacle   outlet instal point 
+	 24 nec 900 mm cec outlet   counter wide 
+	 12 nec 300 mm cec outlet 
+	 circuit outlet feed outlet 
+	 kitchen pantry dining room   furthermore circuit 
+	 addition require refrigerator stove microwave 
+	 lighting etc   non dedicated outlet 6 sink 
+	 protect gfci nec 
+
+	 split duplex receptacle feed 220v circuit   tab 
+	 break hot outlet hot go 
+	 upper outlet hot go low outlet 
+	 neutral connect outlet screw   
+	 carry outlet neutral 
+	 pigtaile remove outlet have neutral 
+	 connection fall cause neutral disconnect 
+	 downstream outlet 
+
+ subject outlet switch bathroom 
+
+	 outlet bathroom adjacent 
+	 sink addition outlet incorporate 
+	 light fixture   outlet gfci protect 
+
+ subject romex nm nmd   bx   use 
+
+	 romex brand type plastic insulated wire 
+	 call non metallic sheath   formal nm 
+	 suitable use dry protect area ie inside 
+	 stud wall side joist etc subject 
+	 mechanical damage excessive heat   new home 
+	 wire exclusively nm wire   
+	 different category nm cable 
+
+	 bx cable technically know armored cable ac 
+	 flexible aluminum steel sheath conductor 
+	 fairly resistant damage 
+
+	 teck cable ac additional external thermoplastic 
+	 sheath 
+	
+	 protection cable conceal location nm ac cable 
+	 run stud joist similar wooden member outer 
+	 surface cable keep 32mm/1.25 cec nec 
+	 edge wooden member cable protect 
+	 mechanical injury   protection form 
+	 metal plate spare outlet box ends conduit 
+
+	 note inspector permit practise canada suggest armor 
+	 cable flexible conduit mechanical protection 
+	 technically illegal 
+
+	 additional protection recommendation rule 
+	 canadian code reasonable answer vague 
+	 reference expose mechanical damage nec 
+	 cec 
+
+	     nm cable protect mechanical damage 
+	       pass floor surface wall 
+	       expose location 5 foot floor 
+	       ie use ac instead flexible conduit wooden guard etc 
+	     cable suspend connection furnace 
+	       water heater wire protect   canadian 
+	       practise usually install junction outlet 
+	       box wall use short length ac cable 
+	       nm cable flexible conduit jump appliance 
+	       staple nm piece lumber 
+	     nm cable run close proximity heating 
+	       duct pipe heat transfer minimize 
+	       mean 25mm/1 air space suitable insulation 
+	       material wad fiberglass 
+	     nm cable shall support 300mm/1 box 
+	       fitting interval 1.5m/5 
+	       hole joist stud consider support 
+	       slack cable provide adjacent 
+	       box   fishing cable technically violation 
+	       permit proper support impractical 
+	     2 conductor nm cable staple edge 
+	       knight insist cable staple refer 
+	       workmanship clause honoured 
+	       breach 
+	     cable bury plaster cement 
+	       similar finish 
+	     cable protect run baseboard 
+	     cable run upper edge ceiling joist 
+	       low edge rafter headroom 
+	       1 m 39 
+
+	 bx cable terminate box clamp small 
+	 plastic bushing insert end cable 
+	 prevent clamp force sharp end armor 
+	 insulation 
+
+	 bx good idea work shop cover 
+	 solid wall covering 
+
+	 place damage likely like wall 
+	 garage require use conduit 
+	 ul- csa- approve metal pipe   use type 
+	 fitting join pipe provide entrance exit 
+	 wire 
+
+	 service entrance frequently use plastic conduit 
+
+	 damp place eg bury wiring outdoor lighting 
+	 need special wire eg cec nmw90 nec uf   nmw90 look like 
+	 heavy duty nmd90   usually need short length 
+	 conduit wire enter exit ground   underground 
+	 wiring section 
+
+ 	 thermoplastic sheath wire nm nmw etc 
+ 	 expose direct sunlight explicitly approve 
+ 	 purpose 
+
+	 electrical code permit routing wire 
+	 furnace duct include cold air return plenum construct 
+	 metal sheet enclose joist space    reason 
+	 fire ducting spread toxic gas 
+	 burn insulation rapidly building 
+	 teflon insulated wire permit plenum area 
+	
+ 	 canada appear use similar wire designation 
+ 	 canadian wire designation usually include 
+ 	 temperature rating celsius   eg ac90 versus ac 
+	 nm b 90 degree celcius 
+
+	 note local code vary   item change 
+	   eg chicago code require conduit 
+	 different requirement mobile home 
+	 check local code especially 
+	 slight ordinary 
+
+	 wire selection table incomplete real table enormous 
+	 uncommon wire type application omit 
+
+	 condition 			 type 	 cec 	 nec 
+
+	 expose conceal dry 		 plastic 	 nmd90 	 nm 
+					 armor 	 ac90 	 ac 
+						 teck90 
+
+	 expose conceal damp 		 plastic 	 nmd90 	 nmc 
+					 armor 	 acwu90 
+						 teck90 
+
+	 expose conceal wet 		 plastic 	 nmwu90 
+					 armor 	 acwu90 
+						 teck90 
+	
+	 expose weather 		 plastic 	 nmwu 
+						 tw etc 
+					 armor 	 teck90 
+	
+	 direct earth burial/ 		 plastic 	 nmwu 	 uf 
+	 service entrance 			 rwu 
+						 twu 
+					 armor 	 ra90 
+						 teck90 
+						 acwu90 
+	 nmwu service entrance 
+
+ subject use plastic metal box 
+
+	 nec permit use plastic box non metallic cable 
+	   reasoning simple armored cable box 
+	 provide ground conductor continuity   u.s. plastic 
+	 box use metal cable clamp 
+
+	 cec slightly different   cec permit cable 
+	 armor ground conductor   
+	 provide ground continuity metallic sheath   cec 
+	 require grounding metal cable clamp plastic box 
+
+	 advantage plastic box comparatively minor 
+	 non metallic sheathe cable avoid make ground 
+	 connection cost little   
+	 hand plastic box vulnerable impact   
+	 expose shop wiring metal box probably well 
+
+ subject junction box positioning 
+
+	 junction box box connect wire 
+
+	 junction box locate way accessible 
+	 later   ie bury plaster   excessive use junction 
+	 box sign sloppy installation inspector 
+	 nasty 
+
+ subject install replacement light fixture 
+
+	 general replace fixture freely subject 
+	 caveat   course check amperage 
+	 rating circuit   heart set instal half 
+	 dozen 500 watt floodlight need run new wire 
+	 panel box   subtle 
+	 constraint   example old house 
+	 wiring high temperature insulation   excess 
+	 heat generate ceiling mount lamp cause 
+	 insulation deteriorate crack obvious bad result 
+	 new fixture specifically mark high 
+	 temperature wire   find fact 
+	 ceiling wiring problem case 
+	 replace device real adventure 
+
+	 concern include provide suitable ground 
+	 fluorescent fixture make sure ceiling box 
+	 mount strong support weight heavy 
+	 chandelier ceiling fan   need install new box 
+	 specifically list purpose   2x4 ceiling 
+	 joist make good support   metal bracket available 
+	 fish ceiling junction box hole 
+	 mount joist 
+
+	 special rule recessed light fixture 
+	 pot lamp heat lamp   instal insulate 
+	 ceiling present substantial fire hazard 
+	 cec provide installation pot lamp insulate 
+	 ceiling provide fixture box coffin usually 
+	 8'x16"x12 make pair joist 12 high cover 
+	 plywood insulation   yes 8 foot 
+	 long 
+
+	 nec rule somewhat stringent   require 3 
+	 clearance fixture sort thermal insulation 
+	 rule obstruct free air movement 
+	 mean cec style ` ` coffin worthwhile 
+	 presumably local inspector   cec 
+	 actually mandate coffin se inspector 
+	 requirement absolutely certain fixture 
+	 accidentally bury insulation   ie insulation blow 
+	 later 
+
+	 fixture contain integral thermal cutout 
+	 fairly large case bury directly insulation   
+	 usually limit 75 watt bulb unfortunately somewhat 
+	 expensive old type   use 
+	 ensure explicit ul csa approval use 
+	 follow installation instruction carefully prescribed location 
+	 sensor vary 
+
+	 appear heat lamp fixture approve 
+	 use insulation   coffin appear legal approach 
+
+ subject mean light brighten motor start 
+
+	 usually mean neutral wire panel 
+	 loose   depend load balance hot wire end 
+	 110v 110v 
+	 respect ground   hazardous situation 
+	 destroy electronic equipment possibly start fire 
+	 situation electrocute ie jurisdiction 
+	 require stove frame connect neutral 
+
+	 happen contact electrical authority immediately 
+	 come check problem 
+
+	 note brief < 1 second brightening normal 
+	 lighting motor 220v neutral circuit   
+	 loose main panel neutral usually increase brightness 
+	 far long second   case doubt help 
+
+ subject 3 phase power   use   house 
+
+	 phase power hot wire 120 degree 
+	 phase   usually large motor 
+	 efficient provide bit starting torque 
+	 motor simple cheap 
+
+	 likely encounter 3 phase circuit show 
+	 110 volt hot ground 208 volt 
+	 hot   show difference normal 
+	 220v/110v common neutral circuit 240 volt 
+	 hot   3 phase circuit different voltage 
+
+	 bring 3 phase feed house usually 
+	 ridiculously expensive impossible   equipment 
+	 want run standard motor mount cheap 
+	 buy new 110v 220v motor   case 
+	 possible run 3 phase equipment ordinary power 
+	 capacitor start unit use large motor 
+	 auto-)generator   tricky good solution 
+	 motor non standard size expensive big 
+	 replace   taunton press book ` ` small shop 
+	 article 
+
+	 note lose possible electrical efficiency 
+	 converter   law thermodynamic guarantee 
+
+ subject well run motor 110 220 
+
+	 theoretically difference   
+	 difference power lose supply 
+	 wiring   thing equal 220v motor lose 4 time 
+	 power house wiring 110v motor   
+	 mean startup surge loss motor 
+	 speed quick   circumstance 
+	 small power loss lead long motor life 
+
+	 usually irrelevant supply wire 
+	 50 foot long 
+
+ subject nonsense 3hp 110v 15a circuit 
+
+	 universal physical law 1 hp equal 746 
+	 watt   give heating loss power factor inefficiency 
+	 usually good consider 1 hp go need 1000 1200 
+	 watt   110v 15a circuit deliver 1850 watt motor 
+	 possibly approximately 2 hp   give rational 
+	 efficiency factor 1.5hp like 
+
+	 equipment manufacturer sears particular router 
+	 manufacturer general advertise hp rating far 
+	 excess possible   give stall 
+	 horsepower similar   mean power measure 
+	 motor stop turn load 
+	 mention keep 
+	 condition second hopefully breaker 
+	 trip motor melt draw far 
+	 current continuously 
+
+	 compare motor compare continuous horsepower   
+	 motor nameplate   find figure 
+	 check amperage rating present 
+
+ subject convert prong receptacle prong 
+
+	 old home frequently prong receptacle instead 
+	 modern   receptacle safety 
+	 ground cabling usually ground wire   
+	 nec cec permit instal new 2 prong receptacle anymore 
+
+	 different approach solve 
+	     1 wiring conduit bx 
+	        conduit continuous panel connect 
+	        prong new receptacle receptacle 
+	        box   nec mainly cec frown practise 
+	     2 copper cold water pipe go nearby 
+	        continuous main house ground point 
+	        run conductor prong 
+	     3 run ground conductor main panel 
+	     4 easy install gfci receptacle   ground lug 
+	        connect gfci 
+	        protection serve instead   gfci 
+	        protect downstream possibly prong 
+	        outlet   protect downstream outlet 
+	        ground connect   
+	        connect real ground wiring fault 
+	        energize case 3 prong device connect 
+	        outlet   sure 
+	        indirect ground plug connection sheath 
+	        bx cable 
+
+	 cec permit replace prong receptacle 
+	 prong fill u ground non conducting goop 
+	 like caulk compound   permit nec 
+
+ subject sure gfcis ungrounded outlet 
+	 test button work 
+
+	 sure nec cec   remember 
+	 local code vary   test button 
+	 resistor connect load hot wire line 
+	 neutral wire press test button   current 
+	 resistor show imbalance trip gfci 
+	 simple passive reliable test require 
+	 real ground work   gfci trip press 
+	 test button probably defective miswired   
+	 test button work break potentially 
+	 dangerous   problem correct immediately 
+
+	 instruction come gfcis specify ground 
+	 wire connect   know   
+	 cause mundane old instruction sheet 
+	 formality ul csa listing device 
+	 test ground wire connect   hand 
+	 ul csa approval grant device 
+	 behave properly list application include ungrounde 
+	 outlet replacement   call leviton gfci 
+	 label installation ground circuit   technician 
+	 surprised agree nec require 
+	 promise investigate 
+
+ subject wire shop 
+
+	 kind wiring need power 
+	 device simultaneously   code specifie 
+	 stay 80 nominal capacity 
+	 circuit   typical home shop use mean circuit 
+	 major power tool possibly dust collector 
+	 shop vac   use 12 gauge wire power tool 
+	 big motor big start surge   use 20 amp 
+	 breaker nec cec require standard 20a receptacle 
+	 mean replug equipment   light 
+	 circuit share 
+	 circuit rest house 
+	 separate circuit   idea want avoid 
+	 situation blade spin thousand 
+	 rpm grope dark switch 
+
+	 install lot outlet   easy install 
+	 beginning cut exist cable 
+	 useful circuit accessible 
+	 point run shop vac compressor 
+	 time tool want   use metal box 
+	 plate maybe metal sheathe cable 
+	 object fly high speed go bit 
+	 wrong 
+
+	 note jurisdiction horizontal wiring 
+	 rule workshop unfinished area 
+	 work   mean wiring 
+	 run structural member   ie staple stud 
+
+	 possible shop circuit include heater circuit 220v 
+	 circuit large tool air compressor circuit 
+	 overload circuit use extension cord 
+	 help rate high current   coil 
+	 extension cord safe straight length wire 
+	 gauge   insulation will withstand 
+	 heat heat dissipation critical issue 
+
+	 shop locate remove main panel 
+	 probably install subpanel derive shop 
+	 wiring   young child want 
+	 equip panel cut switch possibly lock 
+	 want install individual switch ` ` safe 
+	 particular circuit sure one rate high 
+	 example ordinary light switch safely able 
+	 handle start surge generate table saw   buy 
+	 ` ` horsepower rate switch instead 
+
+	 finally note home shop garage unfinished 
+	 basement nec requirement gfci apply   
+	 ` ` know use shop 
+	 outlet run lawn mower owner house 
+	 different idea 
+
+	 note fine woodworking magazine carry article shop 
+	 wiring   april 1992 place start 
+
+ subject underground wiring 
+
+	 need prepare trench specification use 
+	 special wire protect wire conduit special plastic 
+	 tubing possibly lumber use creosote lumber rot 
+	 thermoplastic insulation act catalyst corrosion 
+	 lead   transition house underground wire 
+	 generally conduit   outdoor box specifically 
+	 list purpose contain appropriate gasket 
+	 fitting etc   location box subject immersion 
+	 water style water proof box need   
+	 course forget gfci 
+
+	 require depth detail vary jurisdiction 
+	 jurisdiction suggest consult inspector 
+	 specific situation 
+
+	 hint buy roll bright yellow tape say bury power 
+	 line bury inch wire place 
+
+ subject aluminum wiring 
+
+	 1970 aluminum instead copper wiring 
+	 popular extensively   time 
+	 aluminum wiring implicate number house fire 
+	 jurisdiction long permit new installation 
+	 recommend allow use new 
+	 wiring 
+
+	 panic house aluminum wiring   aluminum 
+	 wiring properly instal safe copper 
+	 aluminum wiring unforgiving improper 
+	 installation   cover bit theory potential 
+	 problem wiring safe 
+
+	 main problem aluminum wiring phenomenon know 
+	 cold creep   aluminum wiring warm expand   
+	 cool contract   unlike copper aluminum go 
+	 number warm cool cycle lose bit tightness 
+	 time   problem worse aluminum oxidise corrode 
+	 contact certain type metal resistance 
+	 connection go   cause heat corrode/ 
+	 oxidize   eventually wire start get hot 
+	 melt insulation fixture attach possibly 
+	 cause fire 
+
+	 people usually encounter aluminum wiring 
+	 house build 70 cover basic point 
+	 safe aluminum wiring   suggest consider purchase 
+	 home aluminum wiring discover later 
+	 hire licensed electrician inspector check wiring 
+	 follow thing 
+
+	     1 fixtures eg outlet switch directly attach 
+	        aluminum wiring rate   device 
+	        stamp al cu co alr   supersede 
+	        safe    fixture somewhat 
+	        expensive ordinary one 
+
+	     2 wire properly connect 3/4 way 
+	        screw clockwise direction   connection 
+	        tight   repeat tightening screw 
+	        problem worse inspection pay snug 
+	        connection 
+
+	        note aluminum wiring 
+	        main service entrance cable   inspect 
+
+	     3 push terminal extreme hazard aluminum wire 
+	        connection push terminal redo 
+	        proper screw connection immediately 
+
+	     4 sign overheat darken connection 
+	        melt insulation baked fixture   damage 
+	        repair 
+	    
+	     5 connection aluminum copper wire need 
+	        handle specially   current canadian code require 
+	        wire nut specially mark connect 
+	        aluminum copper   nec require wire 
+	        connect special crimp device 
+	        anti oxidant grease   tool material 
+	        expensive practical 
+	        rent tool 
+
+	     6 non rate receptacle connect aluminum wiring 
+	        mean short copper pigtail   5 
+	    
+	     7 show reasonable workmanship neat wiring properly strip 
+	        nick wire etc 
+    
+	 consider purchase home inspection wiring 
+	 show problem believe consider 
+	 wiring safe   sign problem place 
+	 suggest look   wrong receptacle 
+	 replace proper type use pigtail have 
+	 professionally range $ 3 $ 10 receptacle switch 
+	 
+
+ subject buy house   
+
+	 congratulations     generally good idea hire 
+	 inspector look house hidden gotcha 
+	 wiring plumbing structural   
+	 inspection wiring show problem minor 
+	 one believe consider wiring safe 
+	 minor problem fix   sign problem 
+	 place suggest look 
+
+	 hint look 
+
+	 obvious non code wiring include 
+
+		 zip cord wiring conceal nail wall 
+		 hot wiring identify neutral conductor 
+		   proper marking 
+		 ungrounde grounding outlet downstream 
+		   gfci 
+		 splice hang mid air proper knob tube 
+		 switch neutral 
+		 unsecured romex swinge like grapevine 
+
+	 certain wiring practise actually code 
+	 time reveal diy wiring hide violation 
+
+		 switch control abandon 
+		    properly terminate wiring 
+		 wall switch shut group light 
+		   separately control wall switch   
+		   convenient 
+		 switches outlet bizarre location 
+		 great number junction box outlet lamp 
+		 junction box great number wire go 
+		 wiring pass closet instead wall 
+		   ceiling 
+		 backwrapped ground wire 
+
+ subject weird stuff   old style wiring 
+	
+	 year edison invent electricity different 
+	 wiring style come go   buy old home 
+	 encounter stuff   section describe old 
+	 method idiosyncrasy 
+
+	 old wiring system likely encounter call 
+	 knob tube k&t   individual conductor 
+	 cloth insulation   wire run structural 
+	 member eg joist stud ceramic stand off knob 
+	 wire run structural member ceramic tube   connection 
+	 twist wire soldering wrapping 
+	 tape   hot neutral run separately 
+	 wiring tend confusing   neutral run 
+	 centre room tap fixture 
+	 hot wire tend run fixture   
+	 case k&t colour code neutral 
+	 colour hot wire 
+
+	 k&t home build late 40 
+
+	 comment k&t 
+
+		 people instal k&t pretty paranoid 
+		   electricity workmanship tend pretty good 
+		 wire insulation insulator tend stand 
+		     k&t see example 
+		   good condition 
+		 grounding   grounding usually difficult install 
+		 box small   receptacle replacement particularly 
+		   gfci difficult   bushing box 
+		   wiring change need special attention box entry 
+		 neutral balance 
+		   separately hot circuit possible 
+		   overload neutral exceed fusing 
+		   circuit 
+		 building code permit insulation wall 
+		   contain k&t. 
+		 connection exist k&t new circuit 
+		   tricky   consult inspector 
+		 modern wiring practise require considerably 
+		   outlet instal k&t system 
+	
+	 k&t tend pretty decent condition generally 
+	 necessary replace simply k&t.   
+	 watch renovation interfere 
+	 cautious circuit loading   case perfectly 
+	 reasonable leave exist k&t add new fixture 
+	 new circuit modern technique 
+	
+	 k&t invent multi conductor cable   type 
+	 roughly cloth varnish insulation   look 
+	 like romex cable decade   stuff 
+	 40 50   ground conductor 
+	 instal like modern wiring   major drawback 
+	 type insulation embrittle   see 
+	 system insulation fracture fall 
+	 touch   bx cable vintage similar problem 
+
+	 stuff fragile hazardous 
+	 wire bare   wiring leave untouched 
+	 possible opportunity arise replace 
+	 simple receptacle switch replacement turn 
+	 hour long frustrating fight electrical tape heat shrink 
+	 tubing 
+
+	 wiring technique modern romex invent 
+	 asphalt impregnated cloth   bit sticky 
+	 stuff stand reasonably present hazard 
+	 reasonably easy work   need 
+	 replace consider safe modern stuff 
+	 thermoplastic insulation wire   abuse 
+
+ subject buy stuff 
+
+	 try find proper electrical supply outlet near   
+	 price considerably well chain hardware store 
+	 diy centre well quality material wide variety 
+	 include odd stuff people counter 
+	 know talk   cultivate friendly knowledgeable 
+	 sale people   valuable information 
+ 
+ chris lewis clewis@ferret.ocunix.on.ca phone canada 613 832 0541 
+ psroff 3.0 info psroff-request@ferret.ocunix.on.ca 
+ ferret list ferret-request@ferret.ocunix.on.ca 

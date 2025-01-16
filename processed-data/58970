@@ -1,0 +1,128 @@
+hello   hope somebody help   currently work 
+ project try communicate ibm 386 
+ phoenix bios c++ board intel 8085 cpu 
+ uart chip   board work fine transmit command 
+ terminal emulation mode kermit wrong 
+ initialization protocol try c++   need 
+ access unit build c sizable chunk c 
+ code perform calculation operation 
+ difficult code assembly language 8085 
+
+ include assembly code run c++ code 
+ try use   
+ blatantly incorrectly miss lack 
+ knowledge rs-232 serial communication e mail 
+ write assembly language wait character receive 
+ check 0x20 character 0x20 receive 
+ led indicate   c++ program write 
+ set com port 2 send 0x20 character   use 
+ bioscom function bios.h use software interrupt 
+ int86 function dos.h   triple check baud rate 2400 
+ parity stop bit 1 character length 8 bit 
+ interrupt call 0x14   currently loss 
+ wrong   hardware guru want comment 
+
+
+						 thank alot 
+						 hubert de jesus 
+						 dejesus@eniac.seas.upenn.edu 
+
+
+  				 intel asm 
+
+ command      equ      3000h                 command register 8155 
+ porta        equ      3001h                 port 8155 
+ timerlo      equ      3004h                 high 8 bit 8155 timer 
+ timerhi      equ      3005h                 low 8 bit 8155 timer 
+ uartdata     equ      e000h                 uart data register 
+ uartcmd      equ      e001h                 uart command register 
+
+             org      4000h                 sram location 
+	     mvi      a,08h 		  set low timer bits 
+             sta      timerlo 
+             mvi      a,40h 		  set high timer bits 
+             sta      timerhi 
+             mvi      a,11111101b           start timer enable port 
+             sta      command 
+
+             mvi      a,11h                 display 11 7 segment led 
+             sta      porta 
+
+             mvi      a,00h 		  clear uart command 
+             sta      uartcmd 
+             sta      uartcmd 
+             sta      uartcmd 
+             mvi      a,01000000b 		  internally reset uart 
+             sta      uartcmd 
+	     lda      uartdata              remove extraneous data 
+ 	     mvi      a,01001111b           init uart 8 datum bit 
+             sta      uartcmd                 parity 1 stop bit 64x async 
+             mvi      a,00100111b           enable transmit receive 
+             sta      uartcmd 
+
+ init        lda      uartcmd 		  read status register 
+             ani      02h                   rxrdy 
+             jz       init                  loop 
+
+             lda      uartdata              read data character 
+             cpi                        character = 0x20 
+             jnz      init                  loop 
+     
+             mvi      a,22h                 character receive 
+             sta      porta                   display 22 7 segment led 
+             hlt 
+             end 
+
+                               c++ bioscom 
+
+ include < stdio.h > 
+ include < stdlib.h > 
+ include < bios.h > 
+
+ define init           0 
+ define send           1 
+ define receive        2 
+ define status         3 
+
+ define com2           1 
+
+ void 
+ main 
+ 
+    char abyte 
+
+    abyte = 0xa3 
+    bioscom init abyte com2 
+    printf initialized comm port 2\n 
+
+    bioscom status 0 com2 0x4000 
+      
+    abyte = 
+    bioscom send abyte com2 
+    printf send start character\n 
+ 
+
+
+        			 c++ int86 
+
+ include < stdio.h > 
+ include < stdlib.h > 
+ include < dos.h > 
+ include < bios.h > 
+
+ main 
+ 
+    union reg register 
+  
+    registers.h.ah = 0x00 
+    registers.h.al = 0xa7 
+    registers.x.dx = 0x01 
+    int86 0x14 register register 
+    printf com2 initialized\n 
+ 
+    registers.h.ah = 0x01 
+    registers.h.al = 0x20 
+    registers.x.dx = 0x01 
+    int86 0x14 register register 
+    printf send start character\n 
+  

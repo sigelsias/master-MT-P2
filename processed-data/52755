@@ -1,0 +1,54 @@
+
+ yes know near christmas time go to loose 
+ net access day maybe week 2 lucky want 
+ post interested people save till xmas    
+ note bell labs good place phd good boss 
+ 
+ 
+
+ subject xmas light set 2 level brightness 
+
+ version variable brightness xmas light set 
+ set start 2 blinker 35 bulb string  
+
+ diagram   orginal 2 way set 
+
+ 120v---+--b-*-*-*-*-*-*-*-- 
+        ---b-*-*-*-*-*-*-*- 
+                            
+ 120rtn 
+
+ modify set 2 level brightness 
+
+                 string 1 
+ 120v---------*-*-*-*-*-*-*-*-- 
+   \_10k_______*-*-*-*-*-*-*-*- 
+     5w           string 2      
+           b    
+ 120v rtn 
+
+              ^ note mod wire right point 
+
+ blinker 
+
+ note blinker current 
+ string 1 bulb second string bulb 
+ parallel   use 10 k 5w resistor 
+ add extra current blinker 
+ current shunt second string blinker glow 
+ second string glow   blinker go open 
+ resistor slight effect brightness 
+ string s1 slightly dimmer s2 slightly bright  
+ use 3w 120v bulb place 10 k resistor 
+   caution replace standard c9 bulb 
+ draw current burn blinker   c9 = approx 7w. 
+
+ work   powerup string 1 light 
+ brightness b light bypass current 
+ second string make light   b open place 
+ string series make string glow 
+ low brightness string glow 
+ reduce brightness 
+
+ sure wire insulate splice resistor lead cut wire 
+ safe manner 

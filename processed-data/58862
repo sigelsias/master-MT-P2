@@ -1,0 +1,663 @@
+thank respond original post   get number 
+ western digital tech support determine need upgrade 
+ bios super bios   handle hard drive 16 read/ 
+ write head 1024 cylinder   upgrade $ 15 payable 
+ check money order   send 
+
+	 western digital corporation 
+	 technical support group 
+	 p.o. box 19665 
+	 irvine   92713 9665 
+
+ super bios wd xt hard drive controller card 
+ wd1002 series 
+
+ bios system handle 20 mb drive 
+
+ response request help follow .sig   warning long 
+
+ keith 
+
+ 
+ 
+ 	 d. keith rice 
+ 	 university north texas 
+ 	 department computer science 
+ 	 denton texas usa 
+ 
+ 	 drice@ponder.csci.unt.edu 
+ 	 drice@cs.unt.edu 
+ 
+
+ < = = = = = = = = = = = = = = = = = = = = = = = = = = response = = = = = = = = = = = = = = = = = = = = = = = = = = > 
+
+ ravalent@mailbox.syr.edu sat apr   3 16:45:03 1993 
+ receive mailbox.syr edu ponder 5.61/1.36 
+	 d aa15218 sat 3 apr 93 16:45:00 -0600 
+ ravalent@mailbox.syr.edu bob valentine 
+ receive mothra.syr edu mailbox.syr.edu 4.1 cns 
+	 d aa16647 sat 3 apr 93 17:44:49 est 
+ receive mothra.syr edu 4.1 spike-2.0 
+	 d aa03607 sat 3 apr 93 17:43:27 est 
+ date sat 3 apr 93 17:43:27 est 
+ message id < 9304032243.aa03607@mothra.syr edu > 
+ drice@pond 
+ status 
+
+ drice@ponder.csci.unt.edu 
+ subject drive controller compatibility 
+ newsgroups comp.sys.ibm.pc.hardware 
+ reply < drice.733866833@ponder > 
+ organization syracuse university syracuse ny 
+ cc 
+
+ article < drice.733866833@ponder > write 
+ > recently buy seagate st-251 hard drive   guy tell 
+ > fully test good   take home install 
+ > compaq portable ok little technology   
+ > mfm controller 
+ > 
+ > instal drive power system   get post error 1701 
+ > 
+ > controller western digital wd1002s wx2 rev. c. 
+ > say drive seagate st-251 
+ > system compaq portable circa 1985 
+
+      ah finally question answer    mess old 
+ stuff alot    kinda fun   8) 
+
+      problem forsee st-251 
+ compadible wd card right bio rom  
+
+     check number   non smt chip 
+ board   slightly center leave     bio read 
+      62 000042 015 
+              62 000094 0x2 
+
+      3 digit 013 get problem 
+
+ > 
+ > controller jumper set follow represent jumper 
+ > 	 w1 	 1 2 3 
+ >        w2       1 2 3 
+ > 	 w3 	 1 2 
+ > 	 w4 	 1 2 3 
+ > 	 w5 	 1 2 3 
+ > 	 w6 	 1 2 3 
+ > 	 w7 	 1 2 3 
+
+     look right    w5 w7 factory jump trace 
+ pin 1 2 select primary controller address 
+
+ > drive jumper follow 8 represent jumper 
+
+     look right 
+  
+ art delete 
+
+ > question 
+ > 
+ > 1 	 drive controller compatible w/ 
+
+       notice leave s1 jumper table setting    
+ control drive controller think    
+ 62 000042 015 rom set like 
+
+               5 + +     open 
+               6 + +     open             
+               7 + +     open        
+               8 + +     open 
+               4 + +     close 
+               3 + +     close 
+               2 + +     open 
+               1 + +     open 
+
+     note    wd run number jumper block 
+    + represent jumper pin     pin 3,4 8 
+ select drive setting drive 0 pin 1,2 7 select 
+ second drive drive 1   
+
+       62 000094 rom auto config 
+ look big book right 
+
+ > 2 	 jumper card drive set correctly 
+
+         problem s1 jumper 
+ right      risk insulting sure cable 
+ right good 8)     jumper 251 try move 
+ opposite drive       
+      narrow datum cable go j2    throw j3 
+ time bang head day 
+
+ > 3 	 system bios need upgrade 
+
+      dunno     ibm rom later 10/27/82    quick way 
+ check boot do run debug    enter 
+       
+         -d f000 fff5 fffc     debug prompt 
+   
+     return rom date use 
+
+ > keith rice 
+
+       oversimplify appologize      
+ hard know caliber person talk 8) 
+
+                      >    bob valentine   <  
+                   > ravalent@mailbox.syr.edu <  
+
+
+
+ chpp@unitrix.utr.ac.za mon apr   5 06:33:46 1993 
+ receive unitrix.utr.ac.za ponder 5.61/1.36 
+	 d aa16194 mon 5 apr 93 06:32:59 -0500 
+ receive unitrix.utr.ac.za smail3.1.28.1 1 
+	 d m0nfpma-0001x7c mon 5 apr 93 13:28 gmt 
+ message id < m0nfpma-0001x7c@unitrix.utr.ac.za > 
+ chpp@unitrix.utr.ac.za prof p. piacenza 
+ subject st251 
+ drice@pond 
+ date mon 5 apr 1993 13:28:49 +0200 gmt 
+ x mailer elm version 2.4 pl11 
+ mime version 1.0 
+ content type text plain charset = ascii 
+ content transfer encoding 7bit 
+ content length 24559     
+ status 
+
+
+ twisted 34 way cable jumper 
+ drive neighbouring pin    8   sure 
+ twisted cable hard disk floppy disk 
+ colour stripe pin 1 furth twist 
+
+ help 
+
+
+                              products xt systems 
+     
+     
+      hard disk controller mfm hard disk drive 
+                                   reference note 1 
+     
+          
+           wd1002a wx1 feature f300r half slot size hard disk controller 
+           card st506 st412 interface   support 2 mfm drive 
+           16 head 1024 cylinder jumper 
+           configurable secondary addressing default drive table  
+           build rom bios support non standard drive type virtual 
+           drive formatting dual drive operation bad track format 
+           dynamic formatting   board feature power connector 
+           filecard application operate system 
+           note controller card unavailable 
+           manufacturer western digital march 1989   reference 
+           note 2 
+          
+           wdxt gen feature f300r half slot size hard disk controller 
+           card st506 st412 interface     support 2 mfm hard 
+           disk drive 8 head 1024 cylinder   build rom 
+           bios support non standard drive type virtual drive 
+           formatting dual drive operation bad track format 
+           dynamic formatting   note controller card 
+           unavailable manufacturer western digital 
+           march 1989 
+          
+           wd1004a wx1 feature f300r half slot size disk controller 
+           card   st506 st412 interface   support 2 mfm drive 
+           16 head 1024 cylinder jumper 
+           configurable secondary addressing default drive table  
+           build rom bios support non standard drive type virtual 
+           drive formatting dual drive operation bad track format 
+           dynamic formatting   board feature power connector 
+           filecard application operate system  
+           reference note 2 
+          
+           wdxt gen2 feature f300r half slot size hard disk controller   
+           card st506 st412 interface   support 2 mfm hard disk 
+           drive 8 head 1024 cylinder   build rom bios 
+           support non standard drive type virtual drive formatting 
+           dual drive operation bad track format dynamic 
+           formatting   reference note 2 
+          
+          
+     
+      hard disk controller rll hard disk drive 
+                                   reference note 2 
+     
+          
+           wd1002 27x feature f301r half slot size hard disk controller 
+           card st506 st412 interface   support 2 rll hard disk 
+           drive 16 head 1024 cylinder jumper 
+           configurable secondary addressing default drive table  
+           build rom bios support non standard drive type virtual 
+           drive formatting dual drive operation bad track format 
+           dynamic formatting   board feature power connector 
+           filecard application operate system   
+           note controller card unavailable 
+           manufacturer western digital march 1989   reference 
+           note 2 
+          
+           wd1002a-27x feature 300r half slot size hard disk controller 
+           st506 st412 interface   support 2 rll drive 
+           16 head 1024 cylinder build rom bios support non- 
+           standard drive type virtual drive formatting bad track 
+           format dynamic formatting   note 
+           controller card unavailable manufacturer     
+           western digital march 1989 
+          
+           wd1004 27x feature f301r half slot size hard disk controller  
+           card st506 st412 interface   support 2 rll hard    
+           disk drive 16 head 1024 cylinder jumper 
+           configurable secondary addressing default drive table  
+           build rom bios support non standard drive type virtual    
+           drive formatting dual drive operation bad track format     
+           dynamic formatting   board feature power connection 
+           filecard application operate 
+           system   reference note 2 
+          
+           wd1004a-27x feature f300r half slot size hard disk 
+           controller   st506 st412 interface   support 2 rll 
+           drive 16 head 1024 cylinder   build rom 
+           bios support non standard drive type virtual drive 
+           formatting bad track format dynamic formatting 
+          
+           note 1   at&t 6300 at&t 6300 at&t 6300 plus 
+           contain system bios chip support hard disk drive  
+           western digital xt controller card system 
+           boot   solve problem rom bios chip 
+           disable   disable bios western digital  
+           xt controller card remove jumper position w-3 
+           add jumper position r-23 depend model xt 
+           controller 
+          
+                                        -2- 
+
+
+          
+           note 2   tandy 1000 systems wd1002a wx1 wd1004a wx1 
+           wdxt gen2 wd1004 27x modify operate 
+           tandy 1000 series computer model sx tx original 
+           version   computer utilize interrupt 2 irq2 
+           instead irq5 ibm standard   modify wd1002a wx1 
+           wd1002 27x operate system cut 
+           etch pin 1 pin 2 jumper position w-7   
+           solder pin 2 pin 3 position w-7   complete 
+           modification jumper add position 7 switch s-1 
+           2 row 8 pin   note physical modification 
+           western digital hard disk controller voids warranty 
+           board   modify wd1004a wx1 wdxt gen2 
+           wd1004 27x tandy 1000 system zero ohm resister 
+           solder jumper position w-27   change 
+           interrupt irq5 irq2 
+     
+     
+      xt controller floppy disk drive 
+     
+          
+           wd1002a fox half slot floppy disk controller xt  
+           system   version board available 
+                 feature f001 support floppy disk drive 
+                 feature f002 support floppy disk drive include 
+                 optional 37 pin control datum power connector 
+                 optional 4 pin power connector 
+                 feature f003 support floppy disk drive include 
+                 rom bios enable system recognize 
+                 floppy disk drive support 
+                 system rom bios   optional rom bios allow 
+                 controller card operate high density floppy disk 
+                 drive xt system 
+                 feature f004 support floppy disk drive include 
+                 optional 37 pin control datum power connector 
+                 optional 4 pin power connector rom bios 
+                 enable system recognize floppy disk drive 
+                 support system rom bios   
+                 optional rom bios allow controller card 
+                 operate high density floppy disk drive xt system 
+                
+                
+                                        -3- 
+
+
+
+                              products systems 
+     
+      
+      hard disk controller mfm hard disk drives floppy support 
+     
+          
+           wd1003 wah feature f003r hard disk controller card   
+           st506 st412 interface   support 2 mfm drive 16 
+           head 2048 cylinder 3:1 interleave 
+          
+           wd1003v mm1 feature f300r hard disk controller card  
+           st506 st412 interface support 2 mfm drive 16  
+           head 2048 cylinder 2:1 interleave   v board   
+           run high speed system 10 16 megahertz system speed 
+          
+           wd1006 wah feature f001r hard disk controller card     
+           st506 st412 interface   support 2 mfm drive 
+           16 head 2048 cylinder 1:1 interleave 
+              
+           wd1006v mm1 feature f300r hard disk controller card  
+           st506 st412 interface   support 2 mfm drive 16  
+           head 2048 cylinder 1:1 interleave fast datum     
+           transfer look ahead cache   v board run 
+           high speed system 10 16 megahertz system speed 
+          
+          
+      hard disk controller mfm hard disk drives floppy disk drive 
+     
+     
+           wd1003 wa2 feature f003r hard disk controller card  
+           st506 st412 interface form factor   support 2 mfm 
+           drive 16   head 2048 cylinder 3:1 
+           interleave 2 floppy disk drive 360 k 1.2 mb 
+          
+           wd1003a wa2 feature f003r hard disk controller card 
+           st506 st412 interface xt form factor   support 2 mfm 
+           drive 16 head 2048 cylinder 3:1 interleave 
+           2 floppy disk drive 360 k 1.2 mb 
+          
+           wd1003v mm2 feature f300r hard disk controller card  
+           st506 st412 interface   support maximum 2 mfm drive 
+           16   head 2048 cylinder 2:1 interleave 2 
+           floppy disk drive 5 1/4 360 k 1.2mb 3 1/2 720 k 1.44mb   
+           v board run high speed system 10 16 
+           megahertz system speed 
+          
+           wd1006v mm2 feature f300r hard disk controller card   
+           st506 st412 interface   support maximum 2 mfm drive 
+           16 head 2048 cylinder 1:1 interleave 
+           fast datum transfer look ahead cache 2 floppy 
+           disk drive 5 1/4 360 k 1.2 mb 3 1/2 720 k 1.44 mb   
+           v board run high speed system 10 16 megahertz 
+           system speed 
+          
+     
+                                        -4- 
+
+
+      hard disk controller rll hard disk drives floppy support 
+     
+          
+           wd1003 rah hard disk controller card st506 st412 
+           interface   support 2 rll hard disk drive 16  
+           head 2048 cylinder 3:1 interleave 
+          
+           wd1003v sr1 hard disk controller card st506 st412 
+           interface   support maximum 2 rll hard disk drive 
+           16 head 2048 cylinder 2:1 interleave v 
+           board run high speed system 10 16 megahertz 
+           system speed 
+                 feature f301r include optional rom bios allow 
+                 user define drive parameter 
+                 feature f300r include rom bios  
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+          
+           wd1006 rah hard disk controller card st506 st412 
+           interface   support maximum 2 rll hard disk drive 
+           16 head 2048 cylinder 1:1 interleave 
+                 feature f001r include optional rom bios provide  
+                 additional drive parameter table 
+                 feature f300r include rom bios   
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+          
+           wd1006v sr1 hard disk controller card st506 st412     
+           interface   support 2 rll hard disk drive 16 
+           head 2048 cylinder 1:1 interleave fast datum 
+           transfer look ahead cache   v board run 
+           high speed   system 10 16 megahertz system speed 
+                 feature f301r include optional rom bios allow  
+                 user define drive parameter           
+                 feature f300r include rom bios  
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+                 
+     
+      hard disk controller rll hard disk drives floppy disk drive 
+     
+     
+           wd1003 ra2 feature f001r   hard disk controller card  
+           st506 st412 interface   support maximum 2 rll hard disk 
+           drive 16   head 2048 cylinder 3:1 
+           interleave 2 floppy disk drive 5 1/4 360 k 1.2 mb 
+          
+          
+     
+                                        -5- 
+
+          
+           wd1003v sr2   hard disk controller card st506 st412    
+           interface   support maximum 2 rll hard disk drive 
+           16 head 2048 cylinder 2:1 interleave 2 
+           floppy disk drive 5 1/4 360 k 1.2 mb 3 1/2 720 k 1.44 
+           mb   v board run high speed system 10 16 
+           megahertz system speed 
+                 feature f301r include optional rom bios allow   
+                 user define drive parameter 
+                 feature 300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+          
+           wd1006v sr2   hard disk controller card st506 st412   
+           interface   support maximum 2 rll hard disk drive 
+           16 head 2048 cylinder 2 floppy disk drive 5 1/4 
+           360 k 1.2 mb 3 1/2 720 k 1.44 mb    feature 1:1 
+           interleave fast datum transfer   look ahead 
+           cache   v board run high speed   system 10 
+           16 megahertz system speed              
+                 feature f301r include optional rom bios allow 
+                 user define drive parameter 
+                 feature 300r include rom bios   
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+                 
+     
+      hard disk controller esdi hard disk drives floppy support 
+     
+          
+           wd1007a wah controller card support 2 esdi 
+           hard disk drive 10 megabit second data transfer rate 
+           1:1 interleave        
+                 feature f301r   include optional rom bios shadow 
+                 ram enable controller card interface 
+                 type esdi drive modify system 
+                 rom bios 
+                 feature f300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+           wd1007v se1 me1 controller card support 2 esdi 
+           hard disk drive 15 megabit second data transfer rate 
+           1:1 interleave   v board run high speed 
+           system 10 16 megahertz system speed 
+                 feature f301r include optional rom bios shadow 
+                 ram enable controller card interface 
+                 type esdi drive modify system 
+                 rom bios 
+                 feature f300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+                                        -6- 
+      
+      hard disk controller esdi hard disk drives floppy disk 
+      drive 
+     
+          
+           wd1007a wa2 controller card support 2 esdi 
+           hard disk drive 10 megabit second data transfer rate 1:1 
+           interleave 2 floppy disk drive 5 1/4 360 k 1.2 mb 3 1/2 
+           720 k 1.44 mb 
+                 feature f301r include optional rom bios shadow 
+                 ram enable controller card interface 
+                 type esdi drive modify system 
+                 rom bios 
+                 feature f300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+          
+           wd1007v se2 me2 controller card support 2 esdi 
+           hard disk drive 15 megabit second data transfer rate 1:1 
+           interleave 2 floppy drive 5 1/4 360 k 1.2 mb 3 1/2 
+           720 k 1.44 mb   v board run high speed system 
+           10 12 megahertz bus speed 
+                 feature f301r include optional rom bios shadow 
+                 ram enable controller card interface 
+                 type esdi drive modify system 
+                 rom bios 
+                 feature f300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+                
+           wd1007a wa4 controller card support 2 esdi 
+           hard disk drive 10 megabit second data transfer rate 1:1 
+           interleave 2 floppy disk drive 5 1/4 360 k 1.2 mb 3 1/2 
+           720 k 1.44 mb   board serial port parallel 
+           port 
+                 feature f301r include optional rom bios shadow 
+                 ram enable controller card interface 
+                 type esdi drive modify system 
+                 rom bios 
+                 feature f300r include rom bios 
+                 use drive table system rom bios 
+                 contain appropriate drive parameter 
+                
+                
+                                        -7- 
+
+
+      
+      hard disk controller scsi hard disk drive 
+     
+          
+           7000 asc scsi host adapter serve interface 
+           bus scsi bus   necessary driver 
+           receiver include permit direct cable connection 
+           scsi bus 50 pin connector bus 
+           edge connector   7000 asc utilize jumper  
+           configurable option enable address space dma channel 
+           interrupt request select suit end user 
+           application   board feature word data transfer 4 
+           megabyte second synchronous board floppy disk 
+           controller rom bios   note 7000 asc 
+           operate standard dos 3.2 dos 3.3 
+          
+           7000 fasst2 scsi host adapter card provide 
+           feature 7000 asc plus additional support capability 
+           software develop columbia data products   7000- 
+           fasst2 support ms dos 3.2 3.3 compaq dos 3.31 pc dos 4.0 
+           pc mos/386 version 2.1 xenix microsoft windows novell 
+           sytos tape backup 
+          
+           wdatxt fasst kit unintelligent scsi host adapter 
+           compatible ibm xt compatible system   use 
+           50 pin external scsi bus d connector standard 50 pin 
+           internal scsi cable   wdatxt fasst   
+           target initiator serve excellent tool 
+           scsi designer   provide low cost alternative end- 
+           user desire install scsi peripheral device 
+           hard disk drive tape backup unit kit include 8 bit 
+           scsi hba board manual fasst software diskette internal 
+           scsi cable 
+          
+           sytos tape backup utility 7000 fasst fasst sytos 
+           fasst version sytos tape backup utility   ms dos 
+           compatible run fasst software product revision 3.3 + 
+          
+          
+      hard disk controller ps/2 model 50 60 80 systems  
+      microchannel architecture 
+     
+          
+           wd1006v mc1 feature f300r hard disk controller 
+           st506 st412 interface microchannel system   support 2 
+           mfm drive 16 head 2048 cylinder 1:1 
+           interleave fast datum transfer look ahead 
+           cache   the"v board run high speed system 10 
+           16 megahertz system speed 
+          
+     
+                                        -8- 
+
+
+          
+           wd1007v mc1 feature f300r controller card support 
+           2 esdi hard disk drive 15 megabit second transfer 
+           rate contain rom bios shadow ram 
+           enable controller card interface type esdi 
+           hard disk drive modify system bios   use 1:1 
+           interleave   v board run high speed system 
+           10 12 megahertz bus speed 
+          
+          
+     
+      controller floppy disk drive 
+     
+          
+           wd1002a fox half slot floppy disk controller xt 
+           system   version board available 
+                 feature f001 support floppy disk drive 
+                 feature f002 support floppy disk drive include 
+                 optional 37 pin control datum power connector 
+                 optional 4 pin power connector 
+                 feature f003 support floppy disk drive include 
+                 rom bios enable system recognize     
+                 floppy disk drive support 
+                 system rom bios   optional rom bios allow 
+                 controller card operate high density floppy disk 
+                 drive xt system 
+                 feature f004 support floppy disk drive include 
+                 optional 37 pin control datum power connector 
+                 optional 4 pin power connector rom bios 
+                 enable system recognize floppy disk drive 
+                 support system rom bios   
+                 optional rom bios allow controller card 
+                 operate high density floppy disk drive xt system 
+                
+
+
+ 
+     prof. l. piacenza chemistry department university transkei 
+     internet chpp@unitrix.utr.ac.za   prefer   tel 27 471 3022384 
+     internet sppp@hippo.ru.ac.za 
+
+
+ necis!mydual.uucp!olson@transfer.stratus.com mon apr   5 12:14:06 1993 
+ receive transfer.stratus.com ponder 5.61/1.36 
+	 d aa29202 mon 5 apr 93 12:14:03 -0500 
+ receive necis uucp transfer.stratus.com 4.1/3.12 jjm 
+	 d aa22183 mon 5 apr 93 13:12:04 edt 
+ receive mydual necis.necis.ma.nec.com d aa21760 5 apr 93 12:50 edt 
+ receive mydual uucp 5.58 smail2.5/09 28 87 
+	 d aa18009 mon 5 apr 93 13:24:23 est 
+ date mon 5 apr 93 13:24:23 est 
+ kirtland h. olson < mydual!olson@transfer.stratus.com > 
+ message id < 9304051824.aa18009@mydual uucp > 
+ drice@pond 
+ subject drive controller compatibility 
+ newsgroups comp.sys.ibm.pc.hardware 
+ reply < drice.733866833@ponder > 
+ organization harvard group 01451 0667 
+ reply necis!olson%mydual.uucp@transfer.stratus.com 
+ cc 
+ status 
+
+ suggest jumper drive rightward position 
+
+ regard 
+
+       --kirt 
+
+ 
+ kirtland h olson harvard ma 01451 0667 usa olson%mydual.uucp@necis.ma.nec.com 
+

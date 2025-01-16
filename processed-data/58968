@@ -1,0 +1,44 @@
+< 1993apr6.095127.12261@odin.diku.dk > phantom@diku.dk haktan bulut write 
+
+ > hi recently switch old amiga 500 486dx-50 computer 
+ > configuration 
+
+ > 486dx-50 mhz 8/256 kb eisa micronics motherboard asic eisa 50mhz 
+ > 16 mb ram 
+ > st3283n 248 mb harddisk scsi 
+ > ultrastor24f eisa cache controller 
+
+ > use norton6.0 harddisk benchmark harddisk datum transfer 
+ > 980 kb sec 1mb sec good think 
+ > eisa 2mb sec 
+ > manual harddisk read host 
+ > adapter need perform low level format optimize harddisk 
+ > performance system need 
+ > guy know get hd transfer 1.2mb sec st3283a 
+ > isa 486dx-50 isa system fast 
+
+ > speedy harddisk 
+
+
+ 1 not rely benchmark incorrect different 
+    tsr program 
+
+ 2 scsi need driver speed card 
+
+ 3 sure card operate synchronus mode 2x fast 
+
+ 4 disable disconnect kb s loose mouse 
+    int`s diskaccese 
+
+ 2.3mb s dx50 lb scsi lb maxtor lxt340sy coretest 
+ 1.3mb s                                               sysinfo 
+
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
+ jens ejvinson 			 
+ nackstavagen 32c vii 		 internet asyvan@solace.hsh.se 
+ s-853 52   sundsvall 		 
+ sweden 
+ tel +46-(0)60 117775 			 act sweden 
+ fax nope 			  advanced computer technology 
+ bbs 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 

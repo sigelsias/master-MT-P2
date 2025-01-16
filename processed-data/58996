@@ -1,0 +1,60 @@
+
+ h e l p 
+
+   problem getting increase frustrated day 
+
+ background pc 
+
+ american megatrend bios clone 386 sx 32 m ram 
+ config.sys file 
+
+	 device = c:\dos\himem.sys 
+	 do = high umb 
+	 device = c:\windows\emm386.exe noem 
+	 files=30 
+	 buffers=30 
+	 stack=9,256 
+
+ autoexec.bat file smartdrv.exe + c 
+ cmos set run 0 wait state read write cache ram 
+
+ problem application error win31 
+
+ start newly instal win31 instal excel 
+ run excel problem permanent swap file size 18 k place 
+ window 
+
+ ok proceed install norton desktop 
+ windows version 2.0 problem installation 
+ allow ndw alter autoexec.bat(with nav run c 
+ problem come try bring excel excel run 
+ right middle like click selection mouse 
+ desktop 
+ application error screen follow 
+ application error screen different message 
+ follow 
+
+ stack fault tc1024.drv address 0001 xxxx xxxx 
+   number tc1024.drv vga driver provide manufacture 
+ general protection fault ndw.exe address 
+ segment load failure ndw.exe address 
+
+ address flag 0001 address 
+ 0001 xxxx mean 
+
+ absolutely idea mean try comment 
+ tsr program autoexec.bat help 
+
+ emm386 setup tell 
+ win31 suppose know look like application cross 
+ memory boundary load run 
+
+ reply idea suggestion willing try 
+ 
+
+ 
+ steve chu 
+ at&t bell labs 
+ holmdel nj 
+
+

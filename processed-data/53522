@@ -1,0 +1,13 @@
+caadams@atlas.cs.upei.ca kenny adams write 
+
+ > hi 
+ > 	 instead +15vdc supply 4066 try +7 -7 
+ > volt supply   commercial audio equipment use approach 
+ > ground reference audio   use -7 volt supply logic 
+ > ground 
+
+ case switch control voltage -7v turn switch 
+ > 0v turn switch 
+
+ michael fulbright 
+ msf@as.arizona.edu 

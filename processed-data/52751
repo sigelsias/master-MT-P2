@@ -1,0 +1,21 @@
+mdanjou@gel.ulaval.ca martin d'anjou write 
+ b 
+ > > > > > > > > > votre host est mal configure < < < < < < < < < < < < 
+
+
+ bonjour sylvain 
+ 	 j'ai travaille avec le hc11 il y 3 ans et je ne souvien pas de toutes les possibilite mais je vais quand meme essayer de t'aider 
+
+ 	 je ne crois pas que downloader une programme directement dans le eeprom soit une bonne idee le eeprom une duree de vie limitee 10 000 cycle il semble le communication break vient peut etre du fait que le eeprom est long programmer 1ms par 8 bytes mais c'est verifier et que les delais de transfer de programme s19 ver la memoire sont excede normalement les transfert en ram du code s19 e plus rapide car le ram est plus rapide que le eeprom en ecriture 
+
+ 	 c'est tout ce que ma memoire permet de souvenir 
+
+ bonne chance 
+
+ oh yeah easy 
+
+ 
+ ken thompson     n0itl  
+ ncr corp.   peripheral products division    disk array development 
+ 3718 n. rock road   wichita ks 67226    316)636 8783 
+ ken.thompson@wichitaks.ncr.com 

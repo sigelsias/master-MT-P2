@@ -1,0 +1,31 @@
+thank respond e mail 
+ tip pan good hearing 
+
+ follow early post 
+ 
+ disk controller   acculogic side-3 2 hard/2 floppy ide controller 
+    jumper   defaulted show  
+      normal irq*/delaye irq      primary*/secondary floppy address 
+      single*/dual speed floppy    primary*/secondary ide address 
+      precomp = 125ns*/187 ns      iochrdy driven*/ide drive control iochrdy 
+ 
+ card   check brand 2 serial/1 parallel adapter 
+ 	       logitech bus mouse adapter 
+ 	       roland mpu-401 compatible midi interface 
+ 		 configure default irq 2 mem address 0330 
+
+ open box remove card   help 
+ have well try change normal irq delayed 
+ irq disk controller difference iochrdy_not 
+ drive ide_drive_controls_iochrdy effect   
+ way instal card 
+
+ unplug floppy drive cable disk controller   voila 
+ pc boot power second 
+ access hard disk   plug floppy cable 
+ controller original non boot behavior return 
+
+ o.k. additional information netland 
+ word wisdom go deal 
+
+ -larry un)plugge away byler- 

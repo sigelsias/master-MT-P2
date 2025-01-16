@@ -1,0 +1,43 @@
+want achieve overall throughput rate 5 megabyte sec 
+ large datum transfer   5 mb 
+
+ quadra 950 
+ nubus network card pump datum mac memory 8.5 mb s. 
+          block mode transfer 
+ high speed disk array asynchronous pb call 
+          achieve 6.8 mb s. 
+
+ let transfer disk buffer network card 
+
+ transfer datum disk buffer 
+ transfer datum buffer card   6.8 mb s 8.5 mb s 
+ result overall 3.8 mb s.   slow 
+
+ try following scheme n megabyte transfer 
+
+ step 1                                 load 1st mb disk buffer 
+ step 2 asynch send 1st mb card    load 2nd mb disk buffer 
+ step 3 asynch send 2nd mb card    load 3rd mb disk buffer 
+         
+ step n asynch send n-1 mb card load nth mb disk buffer 
+ step n+1 send nth mb card 
+
+ code apparently execute card transfer asynchronously 
+ card use mac cpu   buffer tho 
+ step 2 n long transfer 
+ execute   improvement rate 
+
+ 
+
+ mac ram dual port   nubus card disk driver 
+ access datum time 
+ problem device card disk driver use 
+ bus mac ram 
+
+ 
+
+ --david 
+ + ---------------------------------------------------------------------+ 
+ | david blume             | tired thinking thing   | 
+ | dcb@wdl1.wdl.loral.com |   want   --bukowski barfly   | 
+ + ---------------------------------------------------------------------+ 

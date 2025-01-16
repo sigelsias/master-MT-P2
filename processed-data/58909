@@ -1,0 +1,53 @@
+help follow strange problem 
+
+   maxtor 340 drive 386 clone time 
+   time obvious reason spin completely 
+   tell sound simply refuse access dos 
+   react error drive d access 
+   like unfortunately reproduce 
+   error occur 
+   time happen want 
+   demonstrate software colleague 
+     like know anybody experience similar 
+   problem like thing dealer 
+   tell wrong 
+   check post group maxtor 
+   problem 
+   describe problem 
+   different configuration 
+
+   thanx advance e mail help 
+  
+   peter 
+
+ list equipment 
+   computer mandax mainboard 386 33 2 mb 
+   adaptec 1542 scsi master 
+   maxtor lxt340s scsi ii hard drive 
+   nec cdr-83 cd rom reader problem remain cd rom remove 
+   et4000 vga card 
+
+ config.sys 
+   files=30 
+   device = c:\dos\setver.exe 
+   device = c:\windows\himem.sys 
+   device = c:\system\aspi4dos.sys 
+   device = c:\system\aswcdnec.sy /d neccd 
+   dos = high 
+   country=041,,c:\dos\country.sys 
+   device = c:\dos\display.sys con=(ega,,1 
+
+ autoexe.bat 
+   c:\windows\smartdrive.sys 
+   path = c:\windows;c:\do 
+   set temp = c:\do 
+   mode con codepage prepare=((437 c:\dos\ega.cpi 
+   mode con codepage select=437 
+   keyb sg,,c:\dos\keyboard.sys 
+   c:\system\mscdex /d neccd /l d /v 
+
+ 
+ peter schneider                 englische seminar          
+ | e mail pschneid@es.unizh.ch   universitaet zurich         | 
+ |   phone 41 1 257 3554         plattenstrasse 47           | 
+     fax 41 1 262 1204         ch-8032 zurich switzerland 

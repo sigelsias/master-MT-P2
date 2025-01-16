@@ -1,0 +1,26 @@
+article < 1qk158$kcp@bigbird.hri.com > obrien@bigbird.hri.com write 
+ > get ibm pc xt document true 
+ > ibm wonder definition 
+ > 2 8 position dip switch 
+
+ sw8,sw7 	 number 5.25 drive 
+ 0,0 	 1 drive 
+ 0,1 	 2 drive 
+ 1,0 	 3 drive 
+ 1,1 	 4 drive 
+
+ sw6,sw5 	 type display 
+ 0,0 	 reserve 
+ 0,1 	 40x25 color mono mode 
+ 1,0 	 80x25 color mono mode 
+ 1,1 	 mono 80x25 
+
+ sw4,sw3 	 memory system board 
+	 64k chip 	 256k chip 
+ 0,0 	 64k 		 256k 
+ 0,1 	 128k 		 512k 
+ 1,0 	 192k 		 576k 
+ 1,1 	 256k 		 640k 
+
+ sw2 	 co processor instal 
+ sw1 	 loop post 

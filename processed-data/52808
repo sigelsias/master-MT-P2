@@ -1,0 +1,49 @@
+
+ article < 1993apr5.083324.48826@kuhub.cc.ukans.edu > wellison@kuhub.cc.ukans.e 
+ du write 
+ > project droop lap somewhat pain design 
+ > look stable ultra long solid state timer want 
+ > place thing antartic ice shelf measure 
+ > snow fall period week week want trip 
+ > selonoid discharge different colored pellet gas pressure 
+ > snow dig snow snow fall measure 
+ > come different color pellet 
+ > 
+ > problem try build timer stand cold -40 degree 
+ > power source drain look xr-2204 timer 
+ > standard ne556 dual timer thi temp spec will low 
+ > week equate 1,209,600 second firing mean big timing 
+ > cap find 2.2 farad yes farad cap work voltage 
+ > 5 volt small size time discharge -40 low 
+ > degree linear think timer chain 
+ > fire selonid end timing period blast cold 
+ > drain battery week pain possibility 
+ > use solar panel month twilight 
+ > good idea 
+ > 
+ > thank advance 
+ > 
+ > -=-= wes = -=- 
+ > 
+ suggestion 
+ motorola mc14536b set pulse sec 
+ sec rc xtal clock input feed mc14521b clock 
+ input decode output 1,209,600 sec output add 
+ gate decoder chip output reset pulse the'521 restart 
+ cycle trigger oneshot decoded riseing edge shot 
+ go mosfet drive mechanism fire pellet launcher 
+ ckts require uamps current 5 15 volt 12 volt 
+ gel cell amphours week 
+ ckt board battery wrap 3 4 foam build box 
+ stuff plywood metal exterior 
+ build small heater 10 50 watt resistor series battery 
+ ckts warm 
+ 2nd think use 2 battery heater timer pellet trigger 
+
+ insolate insolate chip state al 
+ rate device good -55 c battery considerable reduction 
+ capacity oh sure area inside minium air leakage 
+
+ hope help 
+ rw      long wind net??)(be gentle 
+ 

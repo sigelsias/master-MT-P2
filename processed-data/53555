@@ -1,0 +1,59 @@
+article < 1993apr15.144826.4607@bnr.ca > moffatt@bnr.ca john thomson write 
+ > > > > thought 
+ > > > > hook line aprox 48 50v hook usually drop 1 
+ > > > > led series zener 30v. 
+ > > > > hook = lead 
+ > > > > hook = lead 
+ > > > > work try try let know 
+ > > > 
+ > > > aye rub draw current light led 
+ > > > equipment phone company think go hook 
+ > > > hook state suppose draw current 
+ > > 
+ > > mean use digital voltmeter use 
+ > > old vom phone company equipment detect think 
+ > > wrong cable 
+ > > 
+ > 
+ > look guy problem   want light go 
+ > phone hook need run series 
+ > line mention previous post   want light go 
+ > phone hook need voltage threshold detector 
+ > 
+ > go series diode thing easy 
+ > sure led current recall hand 
+ > like 100ma 
+
+ careful folk consider 90vac+ @20hz force ring 
+ tip phone suppose ring   simple zener 
+ lead setup end carbon real quick   
+ scheme use sure get 200v rate component 
+ frontend 
+
+ remember mistaken phone line 600ohm 
+ equivalent circuit   current draw 48v get 
+ drop 600ohms   fine roughly 
+ 12v ma bell consider hook   drop 
+ far probably big 
+
+ easy implementation accomplish 
+
+     tip   ------->|-----\/\/\/\-----+----------+ 
+               rectifi   resistor   |           | 
+               diode                 |           
+                                    v           
+                           zener             resistor 
+                                    |           
+                                    |           | 
+                                    |           v    lead 
+                                    |          
+                                    |           | 
+     ring --------------------------+----------+ 
+
+ suggestion ahead blow hole 
+ idea   choose high efficiency led need 
+ current light   choose value component 
+ require 
+
+ aaron 
+

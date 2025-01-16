@@ -1,0 +1,36 @@
+1   output offset   obtain service manual oscilloscope 
+ adjust internal output offset contorl   virtual 
+ certainty internal ajustment offset 
+ control zero detent position 
+
+ 2   verify function generator properly load   
+ generator expect supply 50 ohm load   hamf 
+ flea market scrounge pass 50 ohm 
+ terminator male female bnc connector 
+   calibrator tektronix scope design 
+ .4v 1 meg load .1 volt 50 ohm load   
+ find load output function generator 
+ reduce harmonic distortion 
+
+ build attenuator   use want 
+ use input impedance device test 
+ voltage divider drop input test voltage   consider 
+
+ ------10k--------+--------- ohm 
+                  | 
+ gen             50 ohm             d.u.t. 
+ load          | 
+ -----------------+------------------- 
+
+ think ratio 50/10 k think accuracy 
+ read voltage oscilloscope   
+ virtually discount loading d.u.t.   
+ millivolt test generator want 
+
+ good luck 
+
+
+ 
+ bill mayhew       neoucom computer services department 
+ rootstown oh   44272 9995   usa     phone 216 325 2511 
+ wtm@uhura.neoucom.edu 140.220.1.1     146.580 n8wed 

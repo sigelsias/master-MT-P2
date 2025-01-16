@@ -1,0 +1,22 @@
+article < 1993apr11.045019.22221@nwnexus wa.com > paulf@halcyon.com marlboro man write 
+ > look way access floppy drive o level 
+ > low bios   give port assignment controller 
+ > chip spec sheet need info   floppy 1.44 m 
+ > like able write code work 360 k disk 
+ > method access possible actually read 
+ > individual byte track stream controller   
+ > afraid sector handling purely hardware 
+ > 
+ > chance basic access 
+ > point right direction help lot 
+ > 
+ file look archie call 
+ theref22.zip lot info pc thing 
+ detailed description floppy controller 
+ command think hard drive controller command 
+
+ possible read entire track include gap sector 
+ header etc    set sector size large like 
+ 8 k 
+
+ willem 

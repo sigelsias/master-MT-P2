@@ -1,0 +1,81 @@
+article < sehari.733764410@vincent1.iastate.edu > sehari@iastate.edu babak sehari write 
+ | > < c4true.6aa@ms.uky.edu > msunde01@mik.uky.edu mark   underwood write 
+ | > 
+ | > > somewhat familiar db measurement apply  
+ | > > electrical circuit i.e. gain example amplifier  
+ | > > measure logarithmic scale   require  
+ | > > reference value   i.e ouput +20db e.g. respect input  
+ | > > signal 
+
+ < stuff delete > 
+
+ | > actually talk dbm db.   term 
+ | > loosely people   ` ` dbm power respact 1mw 
+ | > db ratio   like english statement 
+ | > 
+ | > 1   
+ | > 2   good 
+ | > 
+ | > similarly people usually use db dbm common mistake spell 
+ | > ` ` db instead ` ` db article ` ` b 
+ | > ` ` bell company mother at&t capitalize 
+ | > 
+ | >                            high regard 
+ | >                                 babak    sehari 
+
+ good gravy decibel ratio question remain 
+ ratio reference unit reference 
+ power 1 milliwatt give certain circuit impedance 
+ include fine print know like 50 ohm 
+ rf circuit impedance lead accepted 
+ notation dbm maybe dbv disregard impedance 
+ circuit power develop 1 volt reference amplitude 
+ reference power arbitrary omit 
+ reference include notation lead plain db. 
+ look way--'db imply reference notation 
+ dbm explicit reference 
+
+ power 
+
+   db = 10*log p(measured)/p(reference 
+
+ amplitude 
+
+   db = 20*log a(measured)/a(reference 
+
+ b bel standard term log ratio base 
+ 10 name alexander graham bell deci bel 1/10 bel 
+ bell telephone company 
+ common founder small d'/large b si notation 
+ convention know crucify mess 
+
+ common reference audio 
+
+	 0 dbm = 1 milliwatt 600 ohm 
+	 0 dbv = 1 volt 
+
+	 0 vu zero vu meter = +4 dbm   pro gear line level 
+	 0 vu = -10dbv 	 consumer gear line level 
+
+
+ time power amp vu meter align 
+ rate power amp 0 db point 
+ reference reasonable application 
+ moment 
+
+ note circuit give maybe unknown linear 
+ impedance amplitude go decibel 
+ power increase proof 
+ identity ohm law 
+
+ 
+ 
+        dave medin 			 phone 	 205 730 3169 w 
+     ssd networking 				 205 837 1174 h 
+     intergraph corp. 
+        m s gd3004 		 internet dtmedin@catbyte.b30.ingr.com 
+   huntsville al 35894 		 uucp   uunet!ingr!b30!catbyte!dtmedin 
+
+    look office 
+
+  opinion express machine 

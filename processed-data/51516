@@ -1,0 +1,33 @@
+> > work   datum acquisition analysis program collect datum 
+ > > insect sensory organ 
+ > > alternative use sound input port 
+ > 
+ > non existent dynamic range 8 bit 
+ > converter probably dubious linearity monotonicity 
+ > ac couple 
+
+ depend requirement poster datum 
+ purpose 1/256 resolution calibration curve 
+
+
+ possibility 
+
+ 1 digital voltameter serial output connect serial 
+ port mac collect datum communication program 
+
+ 2 buy d chip analog device burr brown etc connect 
+ parallel serial converter use serial port acquisition 
+ nah soldering trouble shoot 
+
+ 3 board national instruments data translation omega 
+ etal   fine solution possibly costly 
+
+
+
+ original poster   signal large 
+ use voltage divider resistor cost cheap 
+ 
+
+					 -george 
+					 sukenick@sci.ccny.cuny.edu 
+					 212 650 6028 
